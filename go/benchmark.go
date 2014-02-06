@@ -9,12 +9,13 @@ import(
 )
 
 func main() {
-//	if(os.Args[0] == nil){
-//		fmt.Println("File usage: <stringlen> <arraylen>")
-//	}
+	if(os.Args[0] == ""){
+		fmt.Println("File usage: <stringlen> <arraylen>")
+		return
+	}
 
-	t1 := os.Args[0]
-	t2 := os.Args[1]
+//	t1 := os.Args[0]
+//	t2 := os.Args[1]
 
 	stringlen := 10 //strconv.ParseInt(t1, 0, 64)
 	arraylen := 10 //strconv.ParseInt(t2, 0, 64)

@@ -17,7 +17,7 @@ func Sort(strings []string, start int, end int){
 		}
 
 		strings[j] = pivot
-		sort(strings, start, j-1)
-		sort(strings, j+1, end)
+		Sort(strings, start, j-1)
+		Sort(strings, j+1, end)
 	}
 }
