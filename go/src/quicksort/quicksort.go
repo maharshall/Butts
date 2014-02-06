@@ -1,6 +1,6 @@
 package quicksort
 
-func sort(strings []string, start int, end int){
+func Sort(strings []string, start int, end int){
 	if(start < end){
 		var pivot string = strings[end]
 		var i = start

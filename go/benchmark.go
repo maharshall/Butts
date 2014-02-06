@@ -28,7 +28,7 @@ func main() {
     	}
 
     	helper.ResetTimer()
-    	quicksort.sort(arr, 0, arraylen-1)
+    	quicksort.Sort(arr, 0, arraylen-1)
     	time  = helper.ReadTimerMilliseconds()
 	fmt.Printf("Sorted %d strings of length %d in %.4f ms\n", arraylen, stringlen, time)
     	for _, x := range(arr) {
