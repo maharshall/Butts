@@ -1,0 +1,1691 @@
+ANTH 0100T            Introductory Anthropology                         
+ANTH 0200T            Sociocultural Anthropology                        
+ANTH 0212T            Archaeology                                       
+ANTH 0240T            Biological Anthropology                           
+BIOL 0102T            Current Issues in Biology I                       
+BIOL 1010U            Biology I                                         
+BIOL 2010U            Introductory Physiology                           
+BIOL 2030U            Cell Biology                                      
+BIOL 2830U            Microbiology for Health Sci                       
+BIOL 2840U            Cell & Molecular Biology                          
+BIOL 3010U            Lab. Methods in Molecular Bio.                    
+BIOL 3020U            Principles of Pharm. & Toxico.                    
+BIOL 3050U            Developmental Biology                             
+BUSI 1600U            Management of the Enterprise                      
+BUSI 1830U            Introduction to Programming                       
+BUSI 1900U            Math Foundations for Business                     
+BUSI 2000U            Collaborative Leadership                          
+BUSI 2160U            Financial Accounting II                           
+BUSI 2201U            Marketing I                                       
+BUSI 2311U            Organizational Behaviour                          
+BUSI 2401U            Finance I                                         
+BUSI 2502U            E-Commerce                                        
+BUSI 2603U            Intro. to Operations Mgmt.                        
+BUSI 2620U            Business Ethics                                   
+BUSI 3040U            Information Systems                               
+BUSI 3101U            Inter Financial Accounting I                      
+BUSI 3110U            Introduction to Taxation                          
+BUSI 3170U            Auditing Standards & Appl.                        
+BUSI 3200U            Marketing Communications                          
+BUSI 3312U            Industrial & Labour Relations                     
+BUSI 3405U            Investments                                       
+BUSI 3503U            E-Marketing                                       
+BUSI 3630U            Logistics in the Supply Chain                     
+BUSI 3800U            International Business                            
+CHEM 1010U            Chemistry I                                       
+CHEM 2010U            Structure and Bonding                             
+CHEM 2020U            Intro to Organic Chemistry                        
+CHEM 2030U            Analytical Chemistry                              
+CHEM 2130U            Analytical Chem for Bioscience                    
+CHEM 3510U            Inorganic Chemistry I                             
+CHEM 3530U            Instrum. Analytical Chem. I                       
+CSCI 0102T            Intro to Software Engin. C/C++                    
+CSCI 1000U            Scientific Computing Tools                        
+CSCI 1010U            Discrete Struct. in Comp. Scie                    
+ECON 0101T            Introductory Microeconomics                       
+ECON 2010U            Microeconomics                                    
+EDUC 1050U            Technical Communications                          
+EDUC 1200U            History of Science & Tech.                        
+EDUC 2000U            Classroom Communications                          
+EDUC 3610U            Contemporary Educ Practice                        
+EDUC 3750U            Learning & Human Development                      
+EDUC 4250U            Phil. Found. in Catholic Educ.                    
+EDUC 4380U            Analysis & Mgmt of Clsrm Beh                      
+EDUC 4900U            Field Experience I                                
+ENGR 1400U            Information Tech for Engineers                    
+ENGR 2020U            Statics and Dynamics                              
+ENGR 2140U            Prob Solving, Modelling & Sim.                    
+ENGR 2220U            Structure & Prop. of Materials                    
+ENGR 2310U            Concurrent Engr. & Design                         
+ENGR 2320U            Thermodynamics                                    
+ENGR 2500U            Intro. to Nuclear Physics                         
+ENGR 2640U            Thermodynamics & Heat Transfer                    
+ENGR 2860U            Fluid Mechanics                                   
+ENGR 3030U            Computer-Aided Design                             
+ENGR 3190U            Manufacturing & Prod. Process.                    
+ENGR 3200U            Engineering Graphics & Design                     
+ENGR 3270U            Kinemat. & Dynam. of Machines                     
+ENGR 3280U            Fund. of Computer-Aided Design                    
+ENGR 3350U            Control Systems                                   
+ENGR 3530U            Safety and Quality Management                     
+ENGR 3570U            Environ. Effects of Radiation                     
+ENGR 3740U            Scientific Instrumentation                        
+ENGR 3860U            Intro. to Nuclear Technology                      
+ENGR 3930U            Heat Transfer                                     
+ENGR 4640U            Nuclear Plant Operation                           
+ENGL 0100T            Intro to English Literature                       
+ENGL 0280T            Literature & Social Justice                       
+ENGL 0365T            English-Canadian Poetry                           
+ENGL 1001T            Writing Course                                    
+ENVS 0100T            Intro to Environmental Science                    
+FREN 0100T            Elementary French                                 
+FREN 1001T            Intro to French I (1 semester)                    
+GEOG 0103T            Human Geog. in Global Context                     
+GEOG 0105T            Intro to Earth's Phys. Environ                    
+GEOG 0208T            Natural Science Statistics                        
+HLSC 0880U            Science Bridge                                    
+HLSC 1200U            Anatomy & Physiology I                            
+HLSC 1300U            Info & Com Tech in Health Care                    
+HLSC 1801U            Health and Wellness                               
+HLSC 2460U            Pathophysiology I                                 
+HLSC 3601U            Managing Health Care Teams                        
+HLSC 3710U            Ethics                                            
+HLSC 3800U            Critical Appr. of Stat. in HS                     
+HSST 1001T            Intro to Spanish I (1 sem.)                       
+HIST 0102T            Nation & Citiz: Interp. Canada                    
+HIST 0120T            Western European History                          
+HIST 0208T            The Social History of Europe                      
+HIST 0211T            The United States 1775-1880                       
+HIST 0254T            Canada & the Modern Exper.                        
+HIST 0304T            Canada & the World Since 1900                     
+HIST 1001T            Themes in Canadian History                        
+HIST 2401T            Emer of Mod Africa Before 1880                    
+HIST 3952T            Canadian Intellectual History                     
+HIST 3953T            The Family in England1500-1900                    
+INFR 1010U            Discrete Mathematics                              
+INFR 1300U            Creative Writing & Narrative                      
+INFR 1310U            Drawing I                                         
+INFR 1410U            Networking, Routers & Routing                     
+INFR 1500U            Information Technology                            
+MATH 0105T            Applied Calculus                                  
+MATH 0135T            Linear Algebra I: Matrix Alge.                    
+MATH 1010U            Calculus I                                        
+MATH 1850U            Linear Algebra for Engineers                      
+MATH 1880U            Math. Modeling for Health Sci.                    
+MATH 2010U            Advanced Calculus I                               
+MATH 2050U            Linear Algebra I                                  
+MATH 2080U            Discrete Mathematics                              
+MATH 2860U            Differential Equations for Eng                    
+MLSC 2010U            Med Lab Biochemistry                              
+NURS 0420U            Nursing Bridge                                    
+NURS 1002U            Introduction to Nursing Praxis                    
+NURS 1003U            Intro. to Practicum Skills                        
+NURS 1100U            Intro. to Health & Healing                        
+NURS 1420U            Development of Self as Nurse I                    
+NURS 2005U            Professional Practice III                         
+NURS 2100U            Hlth & Healing -Mater. & Child                    
+NURS 2150U            Hlth & Healing -Med/Surg.                         
+NURS 2320U            Health Assessment                                 
+NURS 3005U            Professional Practice V                           
+NURS 3100U            Hlth & Healing -Healthy Comm.                     
+NURS 3150U            Hlth & Healing - Mental Hlth                      
+PHIL 0102T            Phil. Inq: Moral & Polit. Phil                    
+PHIL 0230T            Moral Issues                                      
+PHIL 1000U            Social and Political Issues                       
+PHY 1010U             Physics I                                         
+PHY 1030U             Physics for Biosciences I                         
+PHY 2010U             Electricity & Magnetism I                         
+PHY 2030U             Mechanics I                                       
+PHY 3010U             Statistical Mechanics I                           
+PHY 3020U             Quantum Mechanics I                               
+PHY 3030U             Electronics                                       
+POSC 0220T            Global Politics                                   
+POSC 0310T            Public Policy & the Cdn Envir.                    
+POSC 1000U            Political Science                                 
+PSYC 0101T            Introduction to Psychology                        
+PSYC 0225T            Intro to Cognitive Psychology                     
+PSYC 0240T            Introd. Abnormal Psychology                       
+PSYC 0281T            Child Development                                 
+RADI 3200U            Introduction  to Imaging                          
+RADI 3550U            Rad. Detection & Measurement                      
+SCIE 1910U            Science in Context                                
+SSCI 1000U            Intro. to Criminal Justice                        
+SSCI 1010U            Intro to Canadian Legal System                    
+SSCI 1900U            Computing for Social Sciences                     
+SSCI 2050U            Rights & Freedoms in Just. Sys                    
+SSCI 2820U            Psyc Explan of Criminal Behav                     
+SSCI 2830U            Justice Theory and Policy                         
+SSCI 2900U            Research Methods                                  
+SSCI 3025U            Victimology                                       
+SSCI 3026U            Issues in Organized Crime                         
+SSCI 3027U            Youth Crime                                       
+SSCI 3050U            Policing                                          
+SOCI 0100T            Introduction to Sociology                         
+SOCI 0210T            Classical Sociological Theory                     
+SOCI 0220T            Soc. Inequal. Class, Gen, Ethn                    
+STAT 2010U            Stats & Prob for Physical Sci.                    
+STAT 2020U            Stats & Prob for Biol Sci.                        
+WMST 0100T            Intro. to Women's Studies                         
+WMST 0201T            Feminist Research                                 
+ANTH 0203T            Technology and Humanity                           
+ANTH 0204T            Law & Ord. Ancient & Con. Cult                    
+ANTH 0344T            Human Genetics                                    
+BIOL 0103T            Current Issues in Biology II                      
+BIOL 0217T            Community Ecology                                 
+BIOL 0336T            Behavioural Ecology                               
+BIOL 1020U            Biology II                                        
+BIOL 1840U            Biology for Engineers                             
+BIOL 2020U            Genetics & Molecular Biology                      
+BIOL 2040U            Biochemistry                                      
+BIOL 3030U            Microbiology and Immunology                       
+BIOL 3040U            Physiology of Regulatory Syst.                    
+BIOL 3620U            Conservation Biology                              
+BUSI 1101U            Financial Accounting                              
+BUSI 1450U            Statistics                                        
+BUSI 1650U            External Environment of Bus                       
+BUSI 1700U            Intro. to Entrepreneurship                        
+BUSI 2050U            Economics for Professionals                       
+BUSI 2150U            Financial Accounting I                            
+BUSI 2170U            Managerial Accounting                             
+BUSI 2202U            Marketing II                                      
+BUSI 2312U            Intro to Human Resources Mngt                     
+BUSI 2402U            Finance II                                        
+BUSI 2501U            E-Business Technologies                           
+BUSI 2504U            E-Learning                                        
+BUSI 2604U            Intro to Proj & Sup Chain Mgmt                    
+BUSI 2705U            Legal Environment of Business                     
+BUSI 3102U            Inter. Financial Accounting II                    
+BUSI 3120U            Advanced Taxation                                 
+BUSI 3160U            Advanced Managerial Accounting                    
+BUSI 3210U            Consumer Behaviour                                
+BUSI 3260U            Marketing Research                                
+BUSI 3305U            Recruiting and Selection                          
+BUSI 3380U            Compensation and Benefits                         
+BUSI 3410U            Financial Institutions                            
+BUSI 3450U            Business Forecasting Techniq.                     
+CHEM 1020U            Chemistry II                                      
+CHEM 1800U            Chemistry for Engineers                           
+CHEM 2040U            Thermodynamics and Kinetics                       
+CHEM 2120U            Organic Chemistry                                 
+CHEM 3040U            Fundamentals of Physical Chem.                    
+CHEM 3520U            Inorganic Chemistry II                            
+CHEM 3540U            Instrum. Analytical Chem. II                      
+CHEM 3830U            Instrumental Analytical Chem.                     
+CSCI 0104T            Programming Methodologies                         
+CSCI 0151T            Intro to Computer Sci with App                    
+CSCI 1020U            Fundamentals of Programming                       
+ECON 0102T            Introductory Macroeconomics                       
+ECON 2020U            Macroeconomics                                    
+EDUC 1470U            Impact of Sci. & Tech on Soc.                     
+EDUC 2900U            Intro to Teach & Field Exper I                    
+EDUC 2901U            Field Experience II                               
+EDUC 3470U            Issues in Education                               
+EDUC 3560U            Religious Education I                             
+EDUC 3800U            Teaching for Ind Needs & Diver                    
+EDUC 4240U            Ed. Rsrch, Thy, and Practice                      
+EDUC 4590U            Assessment and Evaluation                         
+EDUC 4610U            Advanced Instructional Design                     
+EDUC 4901U            Field Experience II                               
+ENGR 1200U            Introduction to Programming                       
+ENGR 2010U            Thermodynamic Cycles                              
+ENGR 2330U            Mechanical Equip. & Systems                       
+ENGR 2420U            Solid Mechanics                                   
+ENGR 2790U            Electric Circuits                                 
+ENGR 2950U            Radiation Protection                              
+ENGR 3300U            Integrated Manufact. Systems                      
+ENGR 3380U            Strength of Materials                             
+ENGR 3390U            Mechatronics                                      
+ENGR 3460U            Industrial Ergonomics                             
+ENGR 3610U            Corrosion for Engineers                           
+ENGR 3780U            Nuclear Reactor Design                            
+ENGR 3820U            Nuclear Reactor Kinetics                          
+ENGR 4045U            Quality Control                                   
+ENGR 4730U            Reactor Instrum. & Control                        
+ENVS 0221T            Methods in Environmental Sci.                     
+ENVS 1000U            Environmental Science                             
+FSCI 1010U            Introductory  Forensic Science                    
+FREN 0100T            Elementary French (full year)                     
+FREN 1001T            Intro to French I (1 sem)                         
+HLSC 1201U            Anatomy & Physiology II                           
+HLSC 1802U            Intro to Health Care Systems                      
+HLSC 2030U            Theory & Prac Interpers. Comm.                    
+HLSC 2202U            Compr. Anatomy & Physiology                       
+HLSC 2461U            Pathophysiology II                                
+HLSC 2820U            Nutrition for Health Science                      
+HLSC 3910U            Res. Meth. for Hlth Care Prof.                    
+HSST 1001T            Intro to Spanish I (1 sem)                        
+HSST 1002T            Intro to Spanish II (1 sem)                       
+HIST 1002T            Themes in Canadian History II                     
+HIST 1200T            Themes in West. European Hist.                    
+HIST 2402T            Emer. of Mod Africa Since 1880                    
+INFR 1100U            Introduction to Programming                       
+INFR 1320U            Graphic Design                                    
+INFR 1420U            Switch. Basics, Inter Routing                     
+MATH 0155T            Intro. to Probability                             
+MATH 1020U            Calculus II                                       
+MATH 2020U            Advanced Calculus II                              
+MATH 2060U            Differential Equations                            
+MATH 2070U            Numerical Methods                                 
+MATH 2072U            Computational Science I                           
+MATH 2810U            Advanced Engineering Math                         
+MATH 3050U            Mathematical Modelling                            
+MLSC 1010U            Intro to Medical Lab Practice                     
+MLSC 2110U            Clinical Biochemistry I                           
+NURS 1150U            Hlth & Healing - Older Adult                      
+NURS 1503U            Practicum Skills II                               
+NURS 1505U            Professional Practice II                          
+NURS 2505U            Professional Practice IV                          
+NURS 2810U            Pharmacology for Nurses                           
+NURS 3505U            Professional Practice VI                          
+PHIL 0103T            Phil Inq: Know, Mind & Reality                    
+PHIL 0275T            Philosophy of Religion                            
+PHIL 0337T            Cyberethics                                       
+PHIL 1010U            Ethical Reas. & Crit. Thinking                    
+PHY 1020U             Physics II                                        
+PHY 1040U             Physics for Biosciences II                        
+PHY 1810U             Physics for Health Sciences                       
+PHY 2020U             Electricity & Magnetism II                        
+PHY 2040U             Mechanics II                                      
+PHY 2050U             Thermodynamics & Heat Transfer                    
+PHY 3040U             Mathematical Physics                              
+PHY 3050U             Waves and Optics                                  
+PHY 3060U             Fluid Mechanics                                   
+PSYC 0227T            Introduction to Learning                          
+PSYC 0236T            Intro. to Personality Theory                      
+PSYC 0272T            Intro to Social Psychology                        
+PSYC 1000U            Introductory Psychology                           
+PSYC 2010U            Developmental Psychology                          
+RADI 2100U            Radiological & Health Physics                     
+RADI 2110U            Health Physics Laboratory                         
+RADI 3220U            Rad. Biophysics & Dosimetry                       
+RADI 3610U            Intro. to Radiation Machines                      
+SCIE 1900U            Astronomy                                         
+SSCI 1200U            Introduction to Social Policy                     
+SSCI 2020U            Issues in Diversity                               
+SSCI 2021U            Issues in Family                                  
+SSCI 2810U            Sociological Theories of Crime                    
+SSCI 2910U            Quantitative Methods                              
+SSCI 3010U            Social Justice and Conflict                       
+SSCI 3053U            Prosecution and Sentencing                        
+SSCI 3060U            Corrections                                       
+SSCI 3097U            Field Work Practicum                              
+SSCI 3200U            Public Administration                             
+SOCI 1000U            Introductory Sociology                            
+STAT 2800U            Stats & Probability for Eng.                      
+STAT 3010U            Biostatistcs                                      
+ANTH 0203T            Tech across Time and Cultures                     
+ANTH 0231T            Language, Culture & Society                       
+ANTH 0310T            Key Ideas in Arch. & Bioarch.                     
+ANTH 0312T            Old World Prehis: Pleis. & Rec                    
+ANTH 0316T            Peoples of Pacific Oceania                        
+ANTH 0347T            Primate Behaviour                                 
+BIOL 0216T            Population Ecology                                
+BIOL 3640U            Plant Biology                                     
+BIOL 4010U            Intro to Enviro. Research Meth                    
+BIOL 4020U            Environmental Risk Character.                     
+BIOL 4040U            Applied Molecular Biology                         
+BIOL 4070U            Advanced Biochemistry                             
+BIOL 4430U            Directed Studies in Biology                       
+BUSI 2205U            Marketing in the Info Sector                      
+BUSI 3171U            Advanced Auditing                                 
+BUSI 3220U            Sales Management                                  
+BUSI 3280U            Brand Management                                  
+BUSI 3390U            Training and Development                          
+BUSI 3480U            International Finance                             
+BUSI 3510U            Internet Engineering                              
+BUSI 3570U            Server and Network Admin.                         
+BUSI 3600U            Inventory Management                              
+BUSI 3700U            Strategic Mngmt for Profess.                      
+BUSI 4101U            Advanced Financial Accounting                     
+BUSI 4140U            Contemporary Issues in Acct.                      
+BUSI 4220U            Marketing Strategy                                
+BUSI 4701U            Strategic Management I                            
+BUSI 4991U            UOIT Edge 1-Capstone Project                      
+CHEM 3120U            Advanced Organic Chemistry                        
+CHEM 4040U            Physical Chemistry                                
+CHEM 4050U            Environmental Chemistry                           
+CHEM 4430U            Directed Studies in Chemistry                     
+CSCI 0401T            Software Engineering: Theory                      
+CSCI 2010U            Principles Of Computer Science                    
+CSCI 2050U            Computer Architecture I                           
+CSCI 2110U            Discrete Struct. in Comp. Scie                    
+CSCI 3010U            Simulation and Modelling                          
+ECON 0333T            The Econ. of Global Interdep.                     
+ECON 0340T            Managerial Economics                              
+EDUC 3400U            Techn. in I/S Education                           
+EDUC 3500U            Technology in P/J Education                       
+EDUC 4910U            Field Expericence I                               
+ENGR 2110U            Discrete Mathematics                              
+ENGR 2200U            Electrical Eng. Fundamentals                      
+ENGR 2260U            Statics and Solid Mechanics                       
+ENGR 2360U            Electric Power Systems                            
+ENGR 2710U            Software Design I                                 
+ENGR 3260U            Introduction to Energy Systems                    
+ENGR 3395U            Manufacturing Systems Design                      
+ENGR 3510U            Nuclear Plant Chemistry                           
+ENGR 3640U            Radioactive Waste Mngt. Design                    
+ENGR 3860U            Intro to Nuclear Reactor Tech.                    
+ENGR 4260U            Automotive Engineering                            
+ENGR 4280U            Robotics and Automation                           
+ENGR 4380U            Life Cycle Engineering                            
+ENGR 4390U            Modelling Manufacturing Syst.                     
+ENGR 4660U            Risk Analysis Methods                             
+ENGR 4700U            Nuclear Plant Design & Simul.                     
+ENGR 4994U            Thesis Design Project I                           
+ENGR 5005G            Project Mngt for Engineers                        
+ENGL 1003T            Intro. to English Literature I                    
+ENGL 2000T            Fnd in Pract. Critic. & Theory                    
+ENGL 2100T            Fnd. in Mediev. & Renais. Lit.                    
+ENGL 2200T            Fnd in Restoration to Rom. Lit                    
+ENGL 2300T            Fnd. in American Literature                       
+ENGL 3150T            Studies in Shakespeare                            
+ENGL 3505T            Std in Cdn Lit: Communities                       
+ENGL 3703T            Std in Lit. & Social Justice                      
+ENGL 3802T            Studies in Modern Poetry                          
+ENVS 0101T            Intro to Env. Sci: Global Pers                    
+ENVS 0257T            Cdn Renewable Resource Mngt                       
+ENVS 0358T            Pollut. Ecol. in Terr. Ecosyst                    
+FSCI 2010U            Crime Scene Science                               
+FREN 2001T            Intermediate French I                             
+HLSC 2601U            Intro. to Health Management                       
+HLSC 2801U            Health, Illness & Therapeutics                    
+HLSC 4850U            Current Issues in Health Care                     
+HSST 2001T            Intermediate Spanish I                            
+HIST 0360T            Expansion of Europe-1450-1825                     
+HIST 1001T            Canadian Lives I                                  
+INFR 1350U            Imaging I                                         
+INFR 2140U            Object Oriented Programming                       
+INFR 2310U            Drawing II (Animation)                            
+INFR 2410U            Adv. Routing & Remote Access                      
+INFR 2470U            CISCO Sec. I: Fund. of Net Sec                    
+INFR 2570U            Cybercrime                                        
+INFR 2810U            Computer Architecture                             
+MITS 5100G            Law & Ethics of IT Security                       
+MITS 5200G            Advanced Comm. Networks                           
+MITS 5300G            Operating System Security                         
+MITS 6100G            Attack and Defense                                
+MITS 6300G            IT Sec. Capstone Res. Proj. I                     
+MITS 6400G            Bio/Acc Cont & Smart Card Tech                    
+MATH 3020U            Real Analysis                                     
+MATH 3040U            Optimization                                      
+MLSC 1000U            Issues in Medical Lab. Science                    
+MLSC 3110U            Clinical Biochemistry II                          
+MLSC 3120U            Clinical Hematology                               
+MLSC 3130U            Clinical Microbiology                             
+NURS 2007U            Prof Prac III (Child & Family)                    
+NURS 2008U            Prof Prac III (Adult Hlth Cha)                    
+NURS 2100U            Hlth & Healing-Child & Family                     
+NURS 2150U            Hlth & Hlng -Adult Hlth Chall.                    
+NURS 3007U            Prof. Prac. V (Healthy Comm.)                     
+NURS 3008U            Prof. Pract. V (Mental Health)                    
+NURS 3507U            Prof. Prac. VI (Healthy Comm.)                    
+NURS 3508U            Prof. Prac. VI (Mental Health)                    
+NURS 4005U            Professional Practice VII                         
+NURS 4100U            Nursing Leadership                                
+NURS 4420U            Nursing Theories                                  
+PHIL 0104T            Informal Logic                                    
+PHIL 0239T            Biomedical Ethics                                 
+PHIL 0279T            Philosophy of Art                                 
+PHY 1501T             Introduction to Astronomy I                       
+PHY 4020U             Quantum Mechanics II                              
+PHY 4040U             Solar Energy & Photovoltaics                      
+PHY 4100U             Medical Imaging                                   
+PHY 4430U             Directed Studies in Physics                       
+POSC 0100T            Gov & Glob. Politics in 21st C                    
+PSYC 0102T            Introduction to Psychology I                      
+PSYC 0215T            Basic Research Methods & Stat.                    
+PSYC 0222T            Intro. to Physiological Psyc.                     
+PSYC 0300T            Psyc. of Human Relationships                      
+PSYC 0343T            Health Psychology                                 
+PSYC 0381T            Dev. of Adolesce. & Yng Adults                    
+PSYC 0384T            Family Development                                
+RADI 3200U            Medical Imaging                                   
+RADI 4430U            Indust.. Appl. of Radi. Techn.                    
+RADI 4995U            Thesis Project I                                  
+SSCI 4000U            Advanced Justice Studies                          
+SSCI 4031U            Alternative Methods in Justice                    
+SSCI 4059U            Policing II                                       
+SSCI 4098U            Field Work Practicum                              
+SOCI 0230T            Self and Social Interaction                       
+SOCI 0347T            Religion and Society                              
+SOCI 0363T            Sociology of Health & Illness                     
+ANTH 0204T            Law & Order in Anc.&Cont. Cult                    
+ANTH 0324T            Nonverbal Communication                           
+ANTH 0370T            Psychological Anthropology                        
+BIOL 2050U            Human Anatomy                                     
+BIOL 3650U            Fundamentals Of Nutrition                         
+BIOL 4030U            Adv. Topics in Enviro. Toxico.                    
+BIOL 4050U            Adv. Topics in Pharm. Biotech.                    
+BIOL 4060U            Funct. Genomic & Proteomics                       
+BIOL 4080U            Bioethics                                         
+BUSI 3150U            Financial Statement Analysis                      
+BUSI 3172U            Auditing Information Systems                      
+BUSI 3340U            Human Resource Planning                           
+BUSI 3360U            Quality of Organizational Life                    
+BUSI 3520U            Applied Internet Multimedia                       
+BUSI 3810U            International Management                          
+BUSI 4190U            Special Topics in Accounting                      
+BUSI 4240U            Retail Management                                 
+BUSI 4250U            International Marketing                           
+BUSI 4405U            Portfolio & Investment Strat.                     
+BUSI 4702U            Strategic Management II                           
+BUSI 4992U            UOIT Edge II-Capstone Project                     
+CHEM 3220U            Struct. Determ. of Org. Molec.                    
+CHEM 4010U            Industrial Chemistry                              
+CHEM 4060U            Chemical & Molecular Spectros.                    
+CSCI 2020U            Software Systems Dev. & Integ.                    
+CSCI 3090U            Sci Visual & Computer Graphics                    
+ECON 0311T            International Trade                               
+ECON 0351T            Labour Economics                                  
+EDUC 3450U            Teaching Kindergarten                             
+EDUC 3460U            Problem Based Learning                            
+EDUC 4902U            Field Experience III                              
+EDUC 4911U            Field Experience II                               
+ENGR 2250U            Introductory Electronics                          
+ENGR 2430U            Dynamics                                          
+ENGR 2450U            Digital Systems                                   
+ENGR 2490U            Software Project Management                       
+ENGR 2520U            Fundamentals of Electromagnets                    
+ENGR 2530U            Complex Analysis for Engineers                    
+ENGR 2720U            Software Design II                                
+ENGR 3210U            Mechanical Vibrations                             
+ENGR 3220U            Machine Design                                    
+ENGR 3320U            Fluid Power Systems                               
+ENGR 3330U            Circuit Design                                    
+ENGR 3360U            Engineering Economics                             
+ENGR 3450U            Combustion and Engines                            
+ENGR 3670U            Shielding Design                                  
+ENGR 3730U            Solar Energy Technologies                         
+ENGR 3830U            Wind Energy Systems                               
+ENGR 3840U            Fuel Cell Design                                  
+ENGR 4015U            Reliability and Maintenance                       
+ENGR 4240U            Applied Thermal & Fluids Eng.                     
+ENGR 4250U            Advanced Materials Engineering                    
+ENGR 4520U            Nuclear Plant Safety Design                       
+ENGR 4760U            Ethics, Law & Prof. for Eng.                      
+ENGR 4810U            Nuclear Fuel Cycles                               
+ENGR 4880U            Principles of Fusion Energy                       
+ENGR 4999U            Design Thesis                                     
+ENGR 5010G            Advanced Optimization                             
+ENGR 5140G            Advanced Heat Transfer                            
+ENGR 5242G            Advanced Vibrations                               
+ENGR 5260G            Adv. Robotics & Automation                        
+ENGL 1005T            Intro to English Literature II                    
+ENGL 3125T            Std. in Chaucer's Canteb Tales                    
+ENGL 3705T            Std in Lit. & the Environment                     
+ENVS 0102T            Intro to Envir. Sci: Cdn Persp                    
+FREN 1002T            Intro to French II  (1 sem.)                      
+FREN 2002T            Intermediate French II                            
+HLSC 2201U            Intro to Health Info. Mngmt.                      
+HLSC 2501U            Health Law                                        
+HLSC 3420U            Thry&Prac of Patient-Cnt Care                     
+HSST 1002T            Intro to Spanish II (1 sem.)                      
+HSST 2002T            Intermediate Spanish II                           
+HIST 1002T            Canadian Lives II                                 
+HIST 3951T            Oral Hist: Thry, Meth. & Prac.                    
+INFR 2330U            Game World I                                      
+INFR 2350U            Imaging II (Graph. Data Proc.)                    
+INFR 2370U            Sound and Audio                                   
+INFR 2420U            Multilayer Switching                              
+INFR 2480U            CISCO Sec II: Network Security                    
+INFR 2550U            Info. Tech. Project Mngt                          
+INFR 2610U            OS Security I: Windows                            
+INFR 2820U            Algorithms and Data Structures                    
+INFR 2830U            Operating Systems                                 
+MITS 5400G            Secure Software Systems                           
+MITS 5500G            Cryptography & Secure Comm.                       
+MITS 5610G            Spec. Topics: Cybercrime                          
+MITS 6200G            eCommerce Infrastructure Sec.                     
+MITS 6500G            Inc Hand, Rec, Pol & Risk Mngt                    
+MITS 6600G            IT Sec Capstone Res. Proj II                      
+MATH 3060U            Complex Analysis                                  
+MATH 3070U            Algebraic Structures                              
+MLSC 3210U            Laboratory Leadership                             
+MLSC 3220U            Transfusion Science                               
+MLSC 3230U            Histology                                         
+PHIL 0240T            Symbolic Logic                                    
+PHY 1502T             Introduction to Astronomy II                      
+PHY 4010U             Statistical Mechanics II                          
+PHY 4030U             Modern Physics                                    
+PSYC 0103T            Introduction to Psychology II                     
+PSYC 0202T            Psychology of Language                            
+PSYC 0341T            Adv. Abnormal Psychology                          
+PSYC 0352T            Memory                                            
+PSYC 0366T            Sensation and Perception                          
+PSYC 0383T            Dev. of Indv with Exceptional.                    
+RADI 4320U            Medical Appl. of Radi. Techn.                     
+RADI 4440U            Radioisotopes & Radi. Machines                    
+SSCI 2010U            Criminal Law                                      
+SSCI 2011U            Customs and  Immigration Law                      
+SSCI 2920U            Qualit. &Case Study Res. Meth.                    
+SSCI 4010U            Policy Analysis in Jsts Stud.                     
+SSCI 4020U            Leadership & Administration                       
+SSCI 4069U            Corrections II                                    
+SSCI 4099U            Crim. & Just. Integrating Proj                    
+SOCI 0341T            Sociology of Education                            
+ANTH 0399T            Theories of Society & Culture                     
+APBS 6010G            Research in Applied Bioscience                    
+BIOL 0226T            Introductory Ecology                              
+BIOL 3610U            Comparative Zoology                               
+BUSI 2120U            Accounting for IT                                 
+BUSI 2700U            Entrepreneurial Finance                           
+BUSI 3250U            Service Marketing                                 
+BUSI 3420U            Derivative Securities                             
+BUSI 4410U            Adv. Corporate Finance Appl.                      
+CHEM 3140U            Physical Chem. for Biosciences                    
+CSCI 0101T            The Digital World                                 
+CSCI 0275T            Computer Crimes & Forensics                       
+CSCI 1800U            Computing Tools for Health Sci                    
+CSCI 3020U            Operating Systems                                 
+CSCI 3030U            Database Systems & Concepts                       
+CSCI 3040U            Sys. Analysis & Design in Appl                    
+CSCI 3070U            Analys. & Design of Algorithms                    
+EDUC 3480U            Outdoor & ExperientIal Educ.                      
+ENGR 3110U            Signals and Systems                               
+ENGR 3140U            Computer Architecture                             
+ENGR 3240U            Applic. for Electromagnetics                      
+ENGR 3650U            Software Design III                               
+ENGR 3770U            Design & Analys. of Algorithms                    
+ENGR 3950U            Operating Systems                                 
+ENGR 4160U            Artificial Intelligence in Eng                    
+ENGR 4210U            Adv Solid Mech. & Stress Anal.                    
+ENGR 4220U            Mechanical Systems Design                         
+ENGR 4230U            Thermofluids & Energy Sys Des.                    
+ENGR 4310U            Electronics                                       
+ENGR 4330U            Mechatronics Systems Design                       
+ENGR 4350U            Microprocessors                                   
+ENGR 4410U            Fossil Fuel Energy Conversion                     
+ENGR 4430U            Sustain.& Alter. Energy Techn.                    
+ENGR 4470U            Hydrogen Power Systems                            
+ENGR 4510U            Nuclear Plant Chemistry                           
+ENGR 4620U            Radioactive Waste Mngt Design                     
+ENGR 4680U            Nuclear Materials                                 
+ENGR 5003G            MASc Seminar                                      
+ENGR 5100G            Advanced Energy Systems                           
+ENGR 5102G            Fuel Cells & Hydrogen Systems                     
+ENGR 5263G            Advanced Control                                  
+ENGR 5610G            Stochastic Processes                              
+ENGR 5910G            Embedded Real-Time Control Sys                    
+ENGL 2500T            Found. in Canadian Literature                     
+ENGL 3123T            Studies in  Medieval Drama                        
+ENGL 3251T            Studies in the Early Romantics                    
+ENGL 3603T            Thry of Femin, Gend, & Sexual.                    
+ENGL 3810T            Stdes in Children's Literature                    
+ENVS 0395T            Curr Iss in Env Scie & Policy                     
+FSCI 3010U            Criminalistics I                                  
+HLSC 1700U            Professional Writing for HS                       
+HLSC 3201U            Coding and Abstracting                            
+INFR 2430U            Network Troubleshooting                           
+INFR 2620U            OS Security II: Unix                              
+INFR 3110U            Game Programming                                  
+INFR 3120U            Web Programming                                   
+INFR 3310U            Animation Arts                                    
+INFR 3710U            Signals and Random Processes                      
+INFR 3810U            Database Systems                                  
+MTSC 6010G            Physics & Chem of Materials                       
+MATH 2050U            Linear Algebra                                    
+MATH 4010U            Dynamical Systems and Chaos                       
+MATH 4020U            Computational Science II                          
+MATH 4060U            Industrial Mathematics                            
+MLSC 2111U            Clinical Biochemistry I                           
+MLSC 2121U            Clinical Hematology I                             
+MCSC 6010G            Mathematical Modelling                            
+MCSC 6020G            Numerical Analysis                                
+MCSC 6140G            Dynamical Syst. & Bifurcations                    
+NURS 1003U            Found. for Nursing Practicum I                    
+NURS 4420U            Knowledge and Inquiry                             
+PHY 2060U             Nuclear Physics & Relativity                      
+PSYC 0304T            Psychology of Gender                              
+PSYC 0376T            Neuropsychology                                   
+PSYC 0379T            Aging and Cognition                               
+RADI 4550U            Rad. Detection & Measurement                      
+SSCI 2930U            Geographic Information Systems                    
+SSCI 3023U            Domestic Violence                                 
+SSCI 3024U            Criminal Gangs                                    
+SSCI 3910U            Advanced Quantitative Methods                     
+SOCI 0334T            Sociology of Work                                 
+WMST 0315T            Women, Health & Environments                      
+APBS 6100G            Adv Cell & Molecular Biology                      
+APBS 6200G            Envir. Determinants of Health                     
+APBS 6300G            Adv Topics in Biological Chem                     
+BIOL 3060U            Fundamentals of Neuroscience                      
+BUSI 4203U            Advertising Management                            
+CSCI 0162T            Intro. to Information Systems                     
+CSCI 0362T            Object Oriented Anly & Design                     
+CSCI 3050U            Computer Architecture II                          
+CSCI 3060U            Software Engineering                              
+CSCI 4020U            Compilers                                         
+ENGR 3000U            Automotive Component Design                       
+ENGR 3070U            Probability and Random Signals                    
+ENGR 3130U            Communication Systems                             
+ENGR 3230U            Electronic Circuit Design                         
+ENGR 3250U            Electric Machines                                 
+ENGR 3410U            Electromech. Energy Conversion                    
+ENGR 3490U            Microprocessor Systems Design                     
+ENGR 3700U            Data Management Systems                           
+ENGR 3720U            Software Design IV                                
+ENGR 3960U            Prog. Languages & Compilers                       
+ENGR 3980U            Software Quality                                  
+ENGR 4320U            Advanced Mechatronics                             
+ENGR 4450U            Thermal Environmental Eng.                        
+ENGR 4460U            Nuclear Power Systems                             
+ENGR 4480U            Emerging Energy Systems                           
+ENGR 4530U            Hydroelectric Power Systems                       
+ENGR 4610U            Corrosion for Engineers                           
+ENGR 4670U            Shielding Design                                  
+ENGR 4730U            Reactor Control                                   
+ENGR 4780U            Nuclear Reactor Design                            
+ENGR 5122G            Computational Fluid Dynamics                      
+ENGR 5620G            Digital Communications                            
+ENGR 5670G            Cryptography & Secure Comm.                       
+ENGR 5710G            Network Computing                                 
+ENGL 3155T            Stdes in the Renaissance Lyric                    
+ENGL 3203T            Stdes in Rest. & 18th c. Drama                    
+ENGL 3701T            Studies in Gender & Literature                    
+ENVS 0357T            Pollut. Ecol. of Aquat. Ecosys                    
+ENVS 2010U            Introductory Environment Sci.                     
+FSCI 3020U            Forensic Biology                                  
+FSCI 3030U            Criminalistics II                                 
+FSCI 3040U            Forensic Chemistry                                
+HLSC 3410U            Human Motor Control & Learning                    
+HLSC 3630U            Health Finance                                    
+HLSC 3805U            Epidemiology & Health Inquiry                     
+INFR 3320U            Filmmaking                                        
+INFR 3330U            Game World II                                     
+INFR 3340U            Modelling and Rigging                             
+INFR 3720U            Basics of Digital Transmission                    
+INFR 3830U            Distributing Computing                            
+INFR 3850U            Enterprise Network Mngt.                          
+INFR 4410U            Routng/Switchng & Service Prov                    
+INFR 4550U            Law and Ethics of IT                              
+MITS 5610G            Spec. Topics: Adv Network Desi                    
+MATH 4030U            Applied Functional Analysis                       
+MATH 4042U            Topics in Applied Math II                         
+MATH 4050U            Partial Differential Equations                    
+MLSC 2131U            Clinical Microbiology I                           
+MLSC 3111U            Clinical Biochemistry II                          
+MLSC 3121U            Clinical Hematology II                            
+MLSC 3210U            Lab Ldshp & Qual Assurance                        
+MLSC 3230U            Histotechnology                                   
+MLSC 3300U            Simulated Clinical Practicum                      
+MCSC 6030G            High-Performance Computing                        
+MCSC 6120G            Num. Meth. for Ord Diff Equat.                    
+MCSC 6160G            Transport Theory                                  
+NURS 1503U            Found. for Nursing Pract. II                      
+NURS 4421U            Critical Thnk. and Nurs. Know.                    
+PSYC 0308T            Psychology of Education                           
+RADI 3530U            Radiological & Health Physics                     
+RADI 4220U            Rad. Biophysics & Dosimetry                       
+RADI 4320U            Therapeutic Appl of Rad Technq                    
+RADI 4999U            Thesis Project II                                 
+SSCI 3020U            Corporate Crime                                   
+SSCI 3022U            Hate Crime                                        
+SSCI 3028U            Women in the Crim. Justice Sys                    
+SOCI 0344T            Social Construct. of Sexuality                    
+ANTH 0327T            Anthropology of Religion                          
+ANTH 0371T            The Maya                                          
+BIOL 3630U            Soil-Plant Relationships                          
+BUSI 2205U            Principles of Marketing                           
+BUSI 3230U            Marketing Channels                                
+BUSI 3405U            Equity Asset Analysis                             
+BUSI 3430U            Personal Finance                                  
+BUSI 3502U            E-Commerce                                        
+BUSI 3750U            Advanced Entrepreneurship                         
+BUSI 4420U            Working Capital Management                        
+BUSI 4599U            Dir Ind Stud-E-Bus & E-Comm                       
+COMM 1100U            Introduction to Communication                     
+COMM 1110U            Develpmnts in Human Commnction                    
+COMM 1310U            Fund. of Professional Writing                     
+COMM 1420U            Computer Skills                                   
+CSCI 1010T            The Digital World                                 
+CSCI 1200U            Computers and Media                               
+CSCI 2750T            Computer Crime & Forensics                        
+CSCI 3150U            Computer Networks                                 
+CSCI 4620U            Human-Computer Interaction                        
+CSCI 4640U            Distributed Computing                             
+EDUC 3430U            Dramatic Arts                                     
+EDUC 4902U            I/S Concrnt Fld Experience III                    
+ENGR 4010U            Vehicle Dynamics & Control                        
+ENGR 4060U            Auto. Struct. Des. & Mat. Sel.                    
+ENGR 4080U            Automotive Systems Design I                       
+ENGR 4220U            Mechanical Systems Design I                       
+ENGR 4230U            Thermofluids & Enrgy Sys Des I                    
+ENGR 4330U            Mechatronics Systems Design I                     
+ENGR 4395U            Manufacturing Systems Design I                    
+ENGR 4420U            DSP Theory and Design                             
+ENGR 4650U            Computer Networks                                 
+ENGR 4750U            Microwave and RF Circuits                         
+ENGR 4790U            Distributed Systems                               
+ENGR 4850U            User Interfaces                                   
+ENGR 4860U            Computer Graphics Design                          
+ENGR 4900U            Software Engineering Systems I                    
+ENGR 4920U            Electrical Eng. Syst. Design I                    
+ENGR 5261G            Adv Mechat.: MEMS & Nanotech.                     
+ENGR 5300G            Automotive Engineering                            
+ENGR 5640G            Adv. Wireless Communications                      
+ENGR 5920G            Anal. & Con. of Nonlinear Sys.                    
+ENGR 5970G            Power Electronics                                 
+ENVS 1001T            Intro to Environmental Scie.                      
+ENVS 3020U            Introductory Energy Science                       
+FSCI 4020U            Forensic Medicine                                 
+FSCI 4030U            Drug Chemistry & Toxicology                       
+FSCI 4430U            Directd Stdies in Forensic Sci                    
+HLSC 1700U            Writing for Health Sciences                       
+HLSC 2801U            Under. Hlth Care & Therapeut.                     
+HLSC 2825U            Nutrition and Health                              
+HLSC 3400U            Intro. to Movement Science                        
+HLSC 3470U            Kine I: Anatomy of Human Move.                    
+HLSC 3805U            Introduction to Epidemiology                      
+HLSC 4201U            Adv. Health Information Mngt                      
+HLSC 4801U            An Intro to Comm. Based Resea.                    
+HLSC 4996U            Research Applications I                           
+INFR 1310U            Graphic Design I                                  
+INFR 1350U            Photo & Image Process. Techn.                     
+INFR 2310U            Comp. Animation: Algo & Techn.                    
+INFR 3110U            Game Engine Design & Implem.                      
+INFR 3310U            Adv. Graphics & Animation                         
+INFR 4320U            Artificial Intel. for Gaming                      
+INFR 4350U            Virtual Reality and User Inter                    
+INFR 4620U            Emerging IT Security Technol.                     
+INFR 4630U            Malware Worms and Viruses                         
+MITS 5110G            Legl Issues, Ethics&Inc. Hand.                    
+MATH 1000U            Introductory Calculus                             
+MATH 1005T            Applied Calculus                                  
+MLSC 3131U            Clinical Microbiology II                          
+MLSC 3230U            Microanatomy & Histotechnology                    
+MCSC 6125G            Num. Meth. for Part. Dif. Equ.                    
+NUCL 5040G            Monte Carlo Methods                               
+NUCL 5060G            Nuclear Concepts for Eng & Sci                    
+NUCL 5200G            Reactor Physics                                   
+NUCL 5230G            Adv. Nuclear Thermalhydraulics                    
+NUCL 5450G            Non-Destructive Analysis                          
+NURS 2420U            Knowledge and Inquiry                             
+NURS 2507U            Prof Pract IV (Child & Family)                    
+NURS 2508U            Prof.Prac IV (Adult Hlth Chal)                    
+PHY 1030U             Introductory Physics                              
+PSYC 0355T            Human Sexuality                                   
+PSYC 0373T            Dreams and Daydreaming                            
+PSYC 2010T            Thinking Critically About Psyc                    
+SSCI 1910U            Writing for Social Sciences                       
+SSCI 2820U            Psychology of Deviance                            
+SSCI 3920U            Advanced Qualitative Methods                      
+SSCI 4030U            Restorative Justice                               
+SSCI 4051U            Community Policing                                
+SSCI 4053U            Police Management & Leadership                    
+SSCI 4061U            Community Corrections                             
+WMST 0386T            Gender, Race and Class                            
+BUSI 3360U            Health and Safety                                 
+BUSI 3440U            Financial Application Tools                       
+BUSI 3501U            E-Business Technologies                           
+BUSI 4290U            High Tech. Marketing                              
+BUSI 4430U            Mergers and Acquisitions                          
+COMM 1220U            Reading Our World                                 
+COMM 1320U            Oral Commun. & Public Speaking                    
+COMM 1410U            Computer-mediated Commun.                         
+CSCI 1030U            Intro. to Computer Science                        
+CSCI 2030U            Programming Workshop                              
+CSCI 2160U            Digital Media                                     
+CSCI 4040U            Eth., Law & Soc. Imp of  Comp.                    
+EDUC 2900U            I/S Concurrent Fld Exp I                          
+EDUC 2901U            I/S Concurrent Fld Exp II                         
+EDUC 3440U            Teach. of Eng. as a Sec. Lang.                    
+EDUC 3612U            I/S Concurrent Cont. Educ Prac                    
+EDUC 3752U            I/S Concurnt Learn & Human Dev                    
+ENGR 4081U            Automotive Systems Design II                      
+ENGR 4100U            Modern Control Systems                            
+ENGR 4110U            Power Systems                                     
+ENGR 4221U            Mechanical Systems Design II                      
+ENGR 4231U            Thermofluids & Engy Sys Des II                    
+ENGR 4331U            Mechatronic Systems Design II                     
+ENGR 4396U            Manufacturing Systs Design II                     
+ENGR 4500U            Wireless Communication                            
+ENGR 4830U            Real Time Systems & Control                       
+ENGR 4840U            Software & Computer Security                      
+ENGR 4890U            Advanced Computer Networks                        
+ENGR 4901U            Software Systems Design II                        
+ENGR 4921U            Electrical Eng Syst. Design II                    
+ENGR 4998U            Thesis Design Project II                          
+ENGR 5005G            Spl Tpcs-RF & Micro Eng Wirel.                    
+ENGR 5011G            Advanced Engineering Design                       
+ENGR 5101G            Thermal Energy Storage                            
+ENGR 5160G            Advanced Thermodynamics                           
+ENGR 5350G            Auto. Materials & Manufacturng                    
+ENGR 5630G            Statistical Signal Processing                     
+ENGR 5720G            Pervasive & Mobile Computing                      
+ENVS 0375T            Intro. to Environ.Toxicology                      
+ENVS 1002T            Intro to Environmen. Scie. II                     
+FSCI 4010U            Forensic Psychology                               
+FSCI 4050U            Law for Forensic Scientists                       
+HLSC 2400U            Intro to Movement Science                         
+HLSC 2820U            Nutrition for Nursing Practice                    
+HLSC 3202U            Prog. & Data Anal. in Hlth Cre                    
+HLSC 3471U            Musculoskeletal Biomechanics                      
+HLSC 3480U            Prncpls of Fitness & Excercise                    
+HLSC 4610U            Systs. Analysis in Health Care                    
+HLSC 4620U            Qlty Improvement in Hlth Care                     
+HLSC 4710U            Relations of Natural Systems                      
+HLSC 4806U            Fundamentls of Clinical Trials                    
+HLSC 4997U            Research Applications II                          
+INFR 1015U            Linear Algebra & Phy for Games                    
+INFR 1016U            Introductory Calculus                             
+INFR 1320U            Graphic Design II                                 
+INFR 2330U            Game Design & Production I                        
+INFR 2350U            Intro to Computer Graphics                        
+INFR 3330U            Game Design & Production II                       
+INFR 3340U            Intermediate Animation Techniq                    
+INFR 3830U            Distributed Syst. & Networking                    
+INFR 4310U            Multiplayer & Online Game Devl                    
+INFR 4340U            Business of Gaming                                
+INFR 4390U            Demo Reel Development                             
+INFR 4590U            Directed Studies in IT                            
+INFR 4599U            Special Topics in IT                              
+INFR 4599U            Spc Tpcs:Build Cisc Mul Swi Nt                    
+INFR 4640U            Web Services Security                             
+INFR 4650U            VPN and Data Privacy                              
+INFR 4660U            E-Business Security                               
+INFR 4680U            IT Security Policies & Proced.                    
+INFR 4760U            Network Performance Analysis                      
+MITS 5610G            Spec. Topics: Know. Discovery                     
+NUCL 5005G            Spcl Topics-Safety Instrum Sys                    
+NUCL 5030G            Transport Theory                                  
+NUCL 5080G            Envi. Degradation of Materials                    
+NUCL 5090G            Occupational Health and Safety                    
+NUCL 5210G            Advanced Reactor Physics                          
+NUCL 5240G            Heat Trans. in Nuc. Reac. App.                    
+NURS 2820U            Integ. Hlth Assessment & Pharm                    
+PHY 1040U             Physics for Biosciences                           
+PHY 4080U             Hyd-Bsd Enrgy Syst &Fuel Cells                    
+PSYC 0363T            Adlt Dev & Aging: Psyhos Pers                     
+SSCI 2011U            Immigration and Refugee Law                       
+SSCI 3021U            Cybercrime                                        
+SSCI 3052U            Policing Diverse Communities                      
+SSCI 4032U            Theory & Practice of Mediation                    
+SSCI 4050U            Sem-Police Ethics & Misconduct                    
+SSCI 4052U            Intern. Perspect. on Policing                     
+SSCI 4054U            Crime Scene Investigation                         
+SOCI 0451T            Sociology of Sport & Leisure                      
+WMST 3962T            Women and the Law                                 
+ANTH 2030T            Technology and Humanity                           
+APBS 7050G            Research Sem in Appl. Bioscie.                    
+BIOL 1020T            Current Issues in Biology I                       
+BIOL 4410U            Biology Thesis Project I                          
+BUSI 2550U            Introduction to Project Mngt                      
+BUSI 2570U            Cybercrime                                        
+BUSI 3460U            Fixed Income Strategies                           
+BUSI 4210U            High-Tech Marketing                               
+BUSI 5000G            Business Communication                            
+BUSI 5010G            Foundations of Business                           
+BUSI 5020G            Ethics and Leadership                             
+BUSI 5100G            Accounting Systems                                
+BUSI 5400G            Quantative Analysis in Bus.                       
+CHEM 4110U            Bio-Organic Chemistry                             
+CHEM 4410U            Chemistry Thesis Project I                        
+COMM 2210U            Communication and Culture                         
+COMM 2220U            The Media & Commun. in Canada                     
+COMM 2310U            Adv. Profes. Writing & Editing                    
+COMM 2510U            Business Communication                            
+CSCI 2830T            Multimedia and Design                             
+CSCI 4100U            Mobile Devices                                    
+CSCI 4410U            Comp Science Thesis Proj I                        
+CSCI 5010G            Survey of Computer Science                        
+CSCI 5350G            Pervasive & Mobile Computing                      
+CSCI 5540G            User Interface Technology                         
+EDUC 5001G            Principles of Learning                            
+EDUC 5005G            Social & Cultural Cont of Educ                    
+EDUC 5205G            Leadership and Technology                         
+EDUC 5303G            Tech and the Curriculum                           
+ENGR 3180U            Design Principles & Proj Mgmt                     
+ENGR 4120U            Intro to Power Electronics                        
+ENGR 4130U            Digital Communications                            
+ENGR 4800U            Advanced Operating Systems                        
+ENGR 5120G            Advanced  Fluid Mechanics                         
+ENGR 5161G            HVAC & Refrid. Sys Des & Anal.                    
+ENGR 5243G            Mech & Dynamics of Mach Tools                     
+ENGR 5660G            Communication Networks                            
+ENGR 5690G            RF and Micro Eng for Wireless                     
+ENGR 5930G            Adaptive Control                                  
+ENGR 5995G            Grid Int. of Renew. Energy Sys                    
+ENVS 1010T            Intro to Envir Science Studies                    
+FSCI 4020U            Interd. Topcs in Forensic Sci.                    
+FSCI 4030U            Forensic Drug Chem &Toxicology                    
+FSCI 4410U            Forensic Sci Thesis Project I                     
+GEOG 1030T            Human Geog in Global Context                      
+GEOG 1050T            Intro to Earth's Phyiscal Eniv                    
+HLSC 2800U            Health and Wellness                               
+HLSC 3201U            Understanding Health Data                         
+HLSC 3212U            Fund. in Managing Health Infor                    
+HLSC 3730U            Hlth &Rel of Sex, Love, Friend                    
+HLSC 4402U            Exercise Rehab. I                                 
+HLSC 4471U            Kine. II: Muscul. Biomechanics                    
+HLSC 5010G            Research in Health Sciences                       
+HLSC 5020G            Studies in Community Health                       
+HLSC 5201G            Adv Health Information Mngt                       
+HLSC 5204G            Artifi Intellign. in Hlth Care                    
+HLSC 5402G            Exercise Rehab. I                                 
+INFR 1411U            Introduction to Networking I                      
+INFR 2411U            Advanced Networking I                             
+INFR 2600U            Intro to Computer Security                        
+INFR 4599U            Spec Top in IT Human Com                          
+LGLS 2100U            Public Law                                        
+LGLS 2300U            Commercial and Contract Law                       
+MATH 4410U            Mathematics Thesis Project I                      
+MCSC 6150G            Fluid Dynamics                                    
+NUCL 5290G            Adv. in Nucl. Power Plant Sys.                    
+NUCL 5350G            Reg. Affairs & Licensing Cont                     
+NUCL 5460G            Industrial Radiography                            
+PHY 1510T             Introductory Astronomy I                          
+PHY 4410U             Physics Thesis Project I                          
+PSYC 2400T            Intro to Cognitive Psychology                     
+PSYC 2700T            Intro to Social Psychology                        
+PSYC 3510T            Dev of Adoles. & Young Adults                     
+SSCI 2025U            Youth Cultures                                    
+SSCI 2030U            Social Control                                    
+SSCI 3060U            Punishment and Society                            
+SSCI 5010G            Adv. Quantitative Methods                         
+SSCI 5020G            Criminological Theory                             
+ALSU 1101U            Found for Acad Learn & Success                    
+ANTH 2040T            Law & Order in Anc &Contp Cult                    
+APBS 7100G            Spec. Top. in Biomolecular Sci                    
+APBS 7200G            Spec. Topics in Ecosystem Hlth                    
+APBS 7300G            Spcl Tpics in Forensic Bioscie                    
+BIOL 1030T            Current Issues in Biology II                      
+BIOL 3031U            Infection and Immunity                            
+BIOL 4420U            Biology Thesis Project II                         
+BUSI 3530U            Website Design & Managment                        
+BUSI 5450G            Bus Forecasting Techniques                        
+BUSI 5500G            Management Information Syst.                      
+BUSI 5600G            Operations & Project Mgmt                         
+CHEM 4080U            Hydrog.-Based Sys & Fuel Cells                    
+CHEM 4420U            Chemistry Thesis Project II                       
+COMM 2110U            Found. of Communication Theory                    
+COMM 2240U            Television                                        
+COMM 2250U            Mass Commun. & Popular Culture                    
+COMM 2410U            Communication & Technology                        
+COMM 2610U            Interpersonal Communication                       
+CSCI 2200U            Narrtv Strctr in the Digtl Age                    
+CSCI 3060U            Software Eng. II: Software QA                     
+CSCI 4420U            Comp Science Thesis Project II                    
+EDUC 4611U            Planning for Learn. with Tech                     
+EDUC 4620U            Teaching Extended Math.                           
+EDUC 4622U            Mathematics for Teachers                          
+EDUC 5002G            Research Methods in Education                     
+EDUC 5004G            The Reflective Practitioner                       
+EDUC 5104G            Learning Tools                                    
+EDUC 5304G            Digital Lit: Thry, Prt & Res.                     
+ENGR 2210U            Circuit Analysis                                  
+ENGR 2715U            Data Structures                                   
+ENGR 3100U            Modern Control Systems                            
+ENGR 4110G            Power Systems                                     
+ENGR 4760G            Ethics, Law & Prof. for Eng.                      
+ENGR 4840G            Software & Computer Security                      
+ENGR 5330G            Automotive Powertrains                            
+ENGR 5910G            Embedded Real Time Control                        
+ENGR 5945G            Mobile Robotic Systems                            
+ENVS 1020T            Intro to Envir Sci Std Cdn Per                    
+ENVS 3110U            Econ. & Politics of the Envir.                    
+FSCI 4420U            Forensic Sci Thesis Project II                    
+GEOG 2960T            Wlth, Powr & Space: Econ Geog                     
+HLSC 3020U            Health & Exercise Psychology                      
+HLSC 3202U            Hlth Data for Decision Making                     
+HLSC 3481U            Exercise Physiology                               
+HLSC 3501U            Health Law                                        
+HLSC 4202U            H.I.M. Capstone                                   
+HLSC 4403U            Exercise Rehabilitation II                        
+HLSC 4910U            Intro to Com. Based Research                      
+HLSC 5050G            Patient Journey Modelling                         
+HLSC 5117G            Epidemiology                                      
+HLSC 5403G            Exercise Rehab II                                 
+HLSC 5610G            Systems Analysis in Hlth Care                     
+HLSC 5910G            Intr to Comm Based Res in Hlth                    
+INFR 1421U            Introduction to Networking II                     
+INFR 2421U            Advanced Networking II                            
+INFR 3600U            Cryptography                                      
+INFR 3610U            Operating Syst. Security                          
+INFR 3820U            Operating Syst. Mgmt.                             
+INFR 4599U            Special Topics in IT-CCIE                         
+INFR 4660U            Web Service & E-Busi. Security                    
+INFR 4690U            IT Forensics                                      
+LGLS 2200U            Legal Theory                                      
+LGLS 2940U            Legal Research Methods                            
+MTSC 6380G            Hydrg-Basd Eng Sys& Fuel Cells                    
+MATH 4041U            Topics in Applied Math I                          
+MATH 4420U            Mathematics Thesis Project II                     
+MATH 4430U            Directed Studies in Mathematic                    
+NUCL 5020G            Math. Methods in Nucl. Applic.                    
+NUCL 5065G            Thermohydraulic Concepts                          
+NUCL 5250G            Power Plant Thermodynamics                        
+NUCL 5285G            Advanced Process Control Sys                      
+NUCL 5300G            Adv. Top. in Radio. Waste Mgmt                    
+NUCL 5410G            Physics of Radiation Therapy                      
+NUCL 5440G            Adv. Rad. Biophys. & Microdos.                    
+PHY 1520T             Introductory Astronomy II                         
+PHY 4420U             Physics Thesis Project II                         
+PSYC 2300T            Intro Abnormal Psychology                         
+PSYC 2310T            Intro to Personality Theory                       
+PSYC 2600T            Introduction to Learning                          
+PSYC 3300T            Advanced Abnormal Psychology                      
+PSYC 3580T            Dev of Ind wth Exceptionalties                    
+PSYC 3740T            Psychology of Gender                              
+SSCI 2840U            Intr to Gnder, Sex. & Jsts Std                    
+SSCI 3027U            Youth Crime and Violence                          
+SSCI 4010U            Policy Analysis in Jsts. Stud.                    
+SSCI 4020U            Leadership and Administration                     
+SSCI 5060G            Adv. Meth. in Qualt. Research                     
+SSCI 5100G            Sem on Cont. Issues in Crimin.                    
+WMST 0213T            Women and Health                                  
+ANTH 3280T            Biocul Expl in Anthr of Health                    
+APBS 6400G            Adv Topics in Forensic Biosci.                    
+BUSI 1010U            Critical Thinking & Ethics                        
+BUSI 1020U            Business Communications                           
+BUSI 1520U            3                                                 
+BUSI 1915U            Linear Algebra                                    
+BUSI 3705U            Legal Environment of Business                     
+BUSI 4701U            Strategic Management                              
+BUSI 5200G            Marketing Management                              
+COMM 2230U            Film and Video                                    
+COMM 3110U            Communication Ethics                              
+COMM 3410U            Web Dsgn/Multimedia Authoring                     
+COMM 3520U            Public Relations                                  
+COMM 3530U            Advert. & Marketing Commun.                       
+COMM 3710U            Intercultural Communication                       
+CSCI 3040U            Software Eng I:Req, Des & Anal                    
+CSCI 3210U            Internet Based Media                              
+CSCI 4100G            Mobile Devices                                    
+CSCI 4620G            Human-Computer Interaction                        
+CSCI 5100G            Dev. of Concurrent Software                       
+EDUC 5003G            Adv. Research Meth & Design                       
+EDUC 5102G            Educ Tech. & Communication                        
+EDUC 5201G            Foundations of Leadership                         
+EDUC 5301G            Curriculum Theory                                 
+EDUC 5401G            Intro to Adult Ed & Higher Ed                     
+ENGR 2230U            Statics                                           
+ENGR 2710U            Object Oriented Prog & Design                     
+ENGR 3650U            Software Design & Architecture                    
+ENGR 4510G            Nuclear Plant Chemistry                           
+ENGR 4620G            Radioactive Waste Mngt Design                     
+ENGR 4640G            Nuclear Plant Operation                           
+ENGR 4660G            Risk Analysis Methods                             
+ENGR 4700G            Nuclear Plant Design & Simul.                     
+ENGR 5005G            Sp Tp.Pollut Preve & Sust Eng.                    
+ENGR 5005G            Spl Top Pro Eol Tech                              
+ENGR 5013G            Adv Engineering Mathematics                       
+ENGR 5223G            Adv. Manu. Processes & Method.                    
+ENGR 5241G            Adv. Mechanics of Materials                       
+ENGR 5370G            Auto. Design Engineering                          
+ENGR 5760G            Software Metrics                                  
+ENGR 5970G            Advanced Power Electronics                        
+HLSC 1701U            Acad Writ Perspect in Health                      
+HLSC 2110U            Clinic & Exercise Biochemistry                    
+HLSC 2700U            Mathematical Reasoning in H.S.                    
+HLSC 3462U            Advanced Pathophysiology                          
+HLSC 4412U            Exerc Rehab I Card Resp & Meta                    
+HLSC 4460U            Selct Topic in Phys Act & Hlth                    
+HLSC 5070G            Res in Progress Colloquium I                      
+HLSC 5291G            Adv. Top. in Hlth Informatics                     
+HIST 1701T            World History to 1800                             
+INFR 1340U            The Business of Gaming                            
+INFR 1395U            Game Development Workshop I                       
+INFR 2310U            Comp. Animation: Algor. & Tech                    
+INFR 2395U            Game Development Workshop I                       
+INFR 2431U            Advanced Networking III                           
+INFR 3340U            Intermediate Modeling Tech                        
+INFR 3395U            Game Development Workshop I                       
+LGLS 2120U            International Law                                 
+LGLS 2420U            Canadian Human Rights Law                         
+LGLS 2500U            Information and Privacy Law                       
+LGLS 3200U            Sociology of Law                                  
+LGLS 3210U            Psychology of Law                                 
+LGLS 3230U            Law and Globalization                             
+LGLS 3410U            Labour & Employment Law                           
+MITS 5610G            Sp. Tp. Knowledge Discovery                       
+MITS 5900G            MITS Seminar                                      
+MTSC 6000G            Grad Sem in Science Comm I                        
+MTSC 6140G            Exper. Tech. in Materials Char                    
+MATH 2010U            Calculus III                                      
+MLSC 2130U            Found of Clinic Micro & Immun                     
+MCSC 6000G            Graduate Seminar                                  
+NUCL 5003G            Seminar                                           
+NUCL 5260G            Reactor Containment Systems                       
+NUCL 5270G            Contrl, Instrum. & Elec. Syst.                    
+NUCL 5470G            Nuclear Forensic Analysis                         
+NUCL 6003G            Doctoral Seminar                                  
+NURS 2420U            Knowing Through Inquiry                           
+NURS 2700U            Child & Fam Nurs Theory & Prac                    
+NURS 2701U            Adult Health Chal Theory & Pra                    
+NURS 3700U            Health Comm Nurs Theory & Prac                    
+NURS 3701U            Mental Health Nurs Theory & Pr                    
+NURS 4700U            Synthesis Profession Practice                     
+PHIL 1004T            Informal Logic                                    
+PHY 4050U             Emerging Energy Systems                           
+PSYC 2030U            Abnormal Psychology                               
+SSCI 5050G            Professional Seminar                              
+SSCI 5400G            Special Topics in Criminology                     
+WMST 1000T            Intro. to Gender: Wmns Studies                    
+ANTH 4280T            Issues in Anthropol of Health                     
+BIOL 2060U            Intro to Microbio & Immunology                    
+BUSI 4702U            Advanced Strategic Management                     
+BUSI 5410G            Financial Management                              
+BUSI 6410G            Global Finance                                    
+CHEM 4120U            Adv Topics in Biological Chem.                    
+COMM 1610U            Interpersonal Communication                       
+COMM 3320U            Writing for Business & Govrnmt                    
+COMM 3330U            Scientific & Technical Writing                    
+COMM 3420U            Human-Computer Interaction                        
+COMM 3510U            Organizational Communication                      
+COMM 3610U            Persusn, Argumntn & Negotiatn                     
+CSCI 5740G            Intelligent Systems                               
+EDUC 3452U            Teacher as Coach                                  
+EDUC 3455U            Mental Health Issues in School                    
+EDUC 4702U            Teach & Learn:Evaluate&Assess                     
+EDUC 5103G            Online Technology in Education                    
+EDUC 5202G            Org. Theory, Cult. & Dec. Mak.                    
+EDUC 5405G            Digital Tech in Adult Educ                        
+EDUC 6300G            MEd Graduate Portfolio                            
+ENGR 2720U            Software Req Spec & Analys                        
+ENGR 2720U            Software Req. Spec.& Analysis                     
+ENGR 3720U            Intro to Artificial Intelligen                    
+ENGR 4140U            Power Sys Protection Relaying                     
+ENGR 4150U            Advanced Control Systems                          
+ENGR 4780G            Nuclear Reactor Design                            
+ENGR 5141G            Heat Exchngr Design & Analysis                    
+ENGR 5221G            Computer-Integrated Manufact.                     
+ENGR 5222G            Polymers & Composite Processng                    
+ENGR 5320G            Automotive Aerodynamics                           
+ENGR 5650G            Adaptive Systems & Application                    
+ENGR 5960G            Power Sys. Oper., Anal & Plan.                    
+HLSC 3463U            Human Genetics in Society                         
+HLSC 3601U            Interprofess Health Care Teams                    
+HLSC 4413U            Exer Rehab II Integ Case Stud                     
+HLSC 4820U            Interdisciplinary Collaborat.                     
+HLSC 4910G            Intro to Com. Based Research                      
+HLSC 5071G            Research-in-Prog Colloquium II                    
+HLSC 5111G            Public Policy & Health Promo.                     
+HLSC 5119G            Program Evaluation                                
+HLSC 5320G            Neuroscience in Rehab Kines.                      
+HIST 1702T            World History 1800-Present                        
+INFR 1396U            Game Development Workshop II                      
+INFR 2350U            Intermediate Computer Graphics                    
+INFR 2396U            Game Development Workshop II                      
+INFR 3310U            Animation and Production                          
+INFR 3396U            Game Development Workshop II                      
+INFR 4391U            Spec Top in Game Dev-Adv Model                    
+INFR 4391U            Spec Top in Game Dev & Entre                      
+INFR 4430U            Voice                                             
+LGLS 3300U            Disability and the Law                            
+LGLS 3330U            Gender, Sexuality and the Law                     
+LGLS 3510U            Censrshp & Freedom of Expresn                     
+LGLS 3610U            Employment and Mediation                          
+LGLS 3620U            Human Rights Mediation                            
+MATH 2020U            Calculus IV                                       
+NUCL 1530U            Radiation&Nuclear Technologies                    
+NUCL 5275G            Safety Instrumented Systems                       
+NUCL 5310G            Transmutation of Nuclear Waste                    
+NUCL 5430G            Advanced Dosimetry                                
+NURS 1700U            Older Adult Nurs Theory & Prac                    
+PHIL 1003T            Phil Inq: Know, Mind & Reality                    
+POSC 2000U            Canadian Politics                                 
+PSYC 2020U            Social Psychology                                 
+PSYC 3040U            Restorative Justice                               
+SSCI 3037U            Youth Justice Policy                              
+SSCI 3062U            The Prison Experience                             
+SSCI 4010U            Policy Dev. in Jsts. Stud.                        
+BIOL 3032U            Advanced Microbiology                             
+BIOL 3660U            Ecology                                           
+BUSI 1915U            Business Math I                                   
+BUSI 1916U            Business Math II                                  
+BUSI 3315U            Negotiation Theory & Behaviour                    
+BUSI 3330U            The Management of Change                          
+BUSI 3650U            Innovation Management                             
+BUSI 4650U            Adv. Supply Chain Mngt.                           
+BUSI 4995U            UOIT Edge Capstone Study Proj                     
+CHEM 4510U            Pharmaceutical Discovery                          
+COMM 1050U            Technical Communications                          
+COMM 2411U            Computer-Mediated Comm                            
+COMM 4110U            Communic. Research in Practice                    
+COMM 4120U            Senior Sem: Prof Practice                         
+COMM 4140U            Rhetoric                                          
+COMM 4510U            Strategic Mngmt Communication                     
+COMM 4710U            Globalization & Intrntl Comm.                     
+CSCI 1030U            Intro to Computer Sci with C++                    
+CSCI 4110U            Advanced Computer Graphics                        
+EDUC 5302G            Curriculum Planning & Implem.                     
+EDUC 5404G            Teach. in Adult Learning Envir                    
+ENGR 3010U            Intro to Auto Engineering                         
+ENGR 3160U            Engr. Oper & Project Mgmt                         
+ENGR 4060U            Automotive Structural Design                      
+ENGR 4290U            Finite Element Methods                            
+ENGR 5005G            Spl Tpc: Wireless Sensor Nets                     
+ENGR 5340G            Auto. Noise, Vibrat. & Harsh.                     
+ENGR 5750G            Software Quality Management                       
+ENGL 2705T            Literature and the Environment                    
+HLSC 2400U            Intro to Movement NeuroScience                    
+HLSC 2462U            Altered Phys:Mech of Disease I                    
+HLSC 4201G            Adv Health Information Mngt                       
+HLSC 4401U            Motor Behav. & Develop Disabil                    
+HLSC 4414G            Advance Topics in Neuro Phys                      
+HLSC 4414U            Advance Topics in Neuro Phys                      
+HLSC 4802U            Public Health in Canada                           
+HLSC 5030G            Studies in Kinesiology                            
+HIST 2601T            Public Health and Medicine                        
+INFR 1350U            Intro to Computer Graphics                        
+INFR 1550U            Law and Ethics of IT                              
+INFR 3120U            Web & Script Programming                          
+INFR 3600U            Cryptography & Network Securit                    
+INFR 4670G            Malware & Software Security                       
+INFR 4670U            Malware & Software Security                       
+INFR 4680G            IT Security Policies and Proc.                    
+LGLS 3130U            Family Law                                        
+LGLS 3240U            Cultural Studies of Law                           
+LGLS 3520U            Law and Technology                                
+MTSC 6120G            Theory of the Solid State                         
+MLSC 4400U            Clinical Theory and Project I                     
+NUCL 2220U            Structure and Prop of Materls                     
+NUCL 5070G            Environmental Modelling                           
+NUCL 5450G            Advanced Material Analysis                        
+PHY 2900U             The Science of Astronomy                          
+PSYC 3310U            Confessions and Interrogations                    
+RADI 4430G            Indust. Appl. of Radi. Techn.                     
+RADI 4550G            Rad. Detection & Measurement                      
+SCIE 3920U            Stars, Galaxies & Beyond                          
+SSCI 1300U            Social Problems                                   
+SSCI 2031U            Alternative Methods in Justice                    
+SSCI 4075U            Inter. Persp. on Crim. Justice                    
+APBS 7400G            Spec Top in Human Health Bio                      
+BIOL 2080U            Biochemistry I                                    
+BUSI 2050U            Managerial Economics                              
+BUSI 2930U            Leadership, Negot. & Teamwork                     
+BUSI 3270U            Retail Management                                 
+BUSI 3504U            Databases & Business Intellig.                    
+BUSI 3540U            Object Oriented Programming                       
+BUSI 4290U            Special Topics in Marketing                       
+BUSI 4610U            Business Simulation Modeling                      
+BUSI 5710G            Strategic Info Tech Management                    
+BUSI 5800G            International Business                            
+CHEM 4060U            Quantum Chem & Spectroscopy                       
+CHEM 4520U            Adv Topics in Pharm. Chemistry                    
+COMM 2260U            Language, Culture, & Society                      
+COMM 3720U            Communicating Diversity                           
+COMM 4130U            Capstone Project                                  
+COMM 4610U            Mediation & Conflict Mngmt                        
+COMM 4720U            Communication for Social Chnge                    
+COMM 4810U            Special Topics                                    
+CSCI 1040U            Intro to Comp Scie with Python                    
+CSCI 3220U            Digital Media Production                          
+CSCI 4160U            Interactive Media                                 
+CSCI 4610U            Artificial Intelligence                           
+CSCI 5020G            Collaborative Design &Research                    
+CSCI 5370G            Topics in IT Security                             
+CSCI 5520G            Computer Vision & Games                           
+CSCI 5530G            Serious Game Development                          
+EDUC 4704U            Teach&Learn: Curriculum Design                    
+EDUC 5101G            Learning with Technology                          
+ENGR 3170U            Eng. Production Management                        
+ENGR 3290U            Powertrain Design                                 
+ENGR 4520G            Nuclear Plant Safety Design                       
+ENGR 4610G            Corrosion for Engineers                           
+ENGR 4670G            Shielding Design                                  
+ENGR 4680G            Nuclear Materials                                 
+ENGR 4730G            Reactor Control                                   
+ENGR 4810G            Nuclear Fuel Cycles                               
+ENGR 4820U            Modelling & Simulation                            
+ENGR 4880G            Principles of Fusion Energy                       
+ENGR 5005G            Spl Tpc: Cmp Aid Geometric Dsn                    
+ENGR 5012G            Advanced and Smart Materials                      
+ENGR 5271G            Innovative Design Engineering                     
+ENGR 5770G            Service Computing                                 
+HLSC 2401U            Human Growth & Motor Dev.                         
+HLSC 2463U            Altrd Phys: Mech of Disease II                    
+HLSC 3421U            Issues in Women's Health                          
+HLSC 3480U            Prncpls of Fitness & Exercise                     
+HLSC 4472U            Clinical Biomechanics and Ergo                    
+HLSC 4482G            Advanced Exercise Prescription                    
+HLSC 4482U            Advanced Exercise Prescription                    
+HLSC 4610G            System Analysis in Health Care                    
+HLSC 4803U            Global Health                                     
+HLSC 5314G            Enviro. Determinants of Health                    
+HIST 2101T            War and Society                                   
+INFR 4599U            Spec Topics in IT-Cloud Comput                    
+INFR 4660G            Web Service & E-Busi. Security                    
+INFR 4690G            IT Forensics                                      
+LGLS 3310U            Aboriginal Issues and the Law                     
+LGLS 3600U            Family Mediation                                  
+LGLS 4098U            Legal Stdies Fld Wrk Practicum                    
+LGLS 4099U            Legal Stdies Integrating Proj                     
+LGLS 4200U            Law and Social Change                             
+MTSC 6020G            Adv Topics in Material Science                    
+MTSC 6100G            Grad Sem in Science Comm II                       
+MTSC 6240G            Biomaterials                                      
+MTSC 6530G            Carbon Based Materials                            
+MLSC 3210U            Prac of Effec Lead Qual Mgmt                      
+MLSC 4401U            Clinical Theory and Project II                    
+NURS 3400U            Prov Supp Care to Onc Patients                    
+PHY 4120U             Forensic Physics Applications                     
+PSYC 2040U            Personality Psychology                            
+RADI 4220G            Rad. Biophysics & Dosimetry                       
+RADI 4440G            Radioisotopes & Radi. Machines                    
+SCIE 1920U            Introduction to Astronomy                         
+SSCI 1470U            Impact of Sci & Tech on Soc.                      
+SSCI 2831U            Critical Race Theory                              
+SSCI 3039U            Children, Psychology & the Law                    
+SSCI 3040U            Restorative Justice                               
+SSCI 4010U            Policy Development                                
+SSCI 4079U            Pains of Imprisonment                             
+AEDT 1120U            Foun.of Ditgl Teach & Lrn Tech                    
+AEDT 2160U            Online Lrning: Theory&Resrch                      
+AEDT 3140U            Creating Digital Tools                            
+BIOL 1841U            Biology for Non-Specialists                       
+BIOL 3080U            Biochemistry II                                   
+BUSI 1520U            Business Computer Applications                    
+BUSI 3350U            Developing Management Skills                      
+BUSI 3440U            Financial Modeling                                
+BUSI 3601U            Operatns Anlysis using Sprshts                    
+BUSI 3670U            Risk Mgmt Frameworks & Process                    
+BUSI 4390U            Spec. Topics-Org Beh & HR Mngt                    
+BUSI 4650U            Global Op & Supply Chain Mgmt                     
+BUSI 4990U            Pre-Capstone Workshop                             
+CHEM 3220U            MoleculrStrucDetrm ofSpecData                     
+CHEM 3510U            Inorganic Chemistry Trans Mtls                    
+COMM 1420U            Digtl Liter for Comm in21st c.                    
+COMM 2530U            Advertising and Society                           
+COMM 3410U            Persp.on Multimedia Authoring                     
+CSCI 2000U            Intr to Mathematical Computing                    
+CSCI 4120U            Digital Evidence                                  
+CSCI 5310G            Cryptography & Secure Comm.                       
+CSCI 5510G            Computer Graphics                                 
+CSCI 5730G            Topics in Information Science                     
+EDUC 4703U            Teach & Learn: Prob Base Learn                    
+EDUC 5203G            Dynamics of Change                                
+ENGR 3750U            Integrated Eng. Laboratory                        
+ENGR 4070U            Chassis Systems Design                            
+ENGR 4290U            Finite Element Method                             
+ENGR 4870U            Spec Tps in Softwre Engring                       
+ENGR 5415G            Foundations of Engring Mgmt                       
+ENGR 5631G            Advanced Estimation Theory                        
+ENGR 6003G            PhD Seminar                                       
+ENGL 1001T            Truth, Lies and Storytelling                      
+HLSC 4412G            Exerc Rehab I Card Resp & Meta                    
+HLSC 4473U            Prac.Human Anatmy I Back Upper                    
+HLSC 5322G            Theory & App of Biomed Signals                    
+HIST 1201T            Western Civilization to 1789                      
+INFR 4360U            Sketch to Scrn Dev.Conc Art                       
+INFR 4599U            Spec Top in IT-Cloud Computing                    
+LGLS 3220U            Philosophy of Law                                 
+LGLS 4030U            Law and the Body                                  
+MITS 5600G            Security Policies & Risk Mgmt                     
+MATH 2015U            Calculus III                                      
+MLSC 3221U            Trans Immunology & Hemostasis                     
+NUCL 4360U            Nuc Plant Elec & Aux Sys                          
+NUCL 4540U            Nuclear Steam Supply Systems                      
+NUCL 4550U            Thesis Project I                                  
+NUCL 4620U            Radioactive Waste Management                      
+NUCL 5005G            ST:Liquid Metal & Molten Salts                    
+NURS 4100U            Nursing Leader. & Innovation                      
+NURS 4701U            Prof. Nursing Integrtd Prac.                      
+PHIL 1100T            Intro Phil: Moral & Political                     
+PHIL 1200T            Critical Thinking                                 
+PHIL 2020T            Phil. of Sport & Recreation                       
+PHIL 2390T            Biomedical Ethics                                 
+POSC 4000U            Internatnl Politics & Policy                      
+SSCI 3035U            Represent. of Crime & Justice                     
+SSCI 4000G            Advanced Justice Studies                          
+AEDT 1110U            Foundations of Adult Learning                     
+AEDT 1170U            Psycholgcal Found.& Digtl Tech                    
+AEDT 2120U            Culture & Digital Technologies                    
+AEDT 2150U            Digtl Tech.& Adv Teach Methods                    
+AEDT 4120U            Serious Gaming & Simulations                      
+BUSI 4270U            Business to Business Marketing                    
+CHEM 3520U            Inorganic Chem: Organometallic                    
+COMM 2120U            Communication Research                            
+COMM 3310U            Writing for Communities                           
+COMM 3520U            Mark Comm & Public Relation                       
+COMM 4260U            Language, Culture & Society                       
+COMM 4420U            The Soc.&Pol Impct of New Mda                     
+CSCI 1060U            Programming Workshops                             
+CSCI 2040U            Software Design and Analysis                      
+CSCI 3055U            Programming Languages                             
+CSCI 3060U            Software Quality Assurance                        
+CSCI 4130U            Forensic Informatics                              
+CSCI 4610G            Artificial Intelligence                           
+CSCI 5300G            Computer Communication Netwrks                    
+CSCI 5550G            Topics in Digital Media                           
+CSCI 5700G            Introduction to Services Comp.                    
+EDUC 5105G            Tech. Diffusion in Education                      
+ENGR 5005G            Spl Tpc:Adv Rf/Micwve/MM Wave                     
+ENGR 5005G            Sp Tps.Acoustics & Noise Cntrl                    
+ENGR 5015G            Adv.Cmptr Aided Geometrc Desgn                    
+ENGR 5425G            Production & Oprt Mgmt                            
+ENGR 5632G            Advanced Detection Theory                         
+ENGL 1005T            Love and Hate                                     
+FSCI 1010U            Introductory Forensic Science                     
+HLSC 3472U            Sports Injury Mgmt                                
+HLSC 3711U            Professional Ethics for Kine.                     
+HLSC 4474U            Prac.Human AnatmyII Head Neck                     
+HIST 1202T            Western Civil. from 1789                          
+INFR 4310U            Social Network Games                              
+INFR 4350U            Human-Computer Inter for Games                    
+LGLS 3320U            Race, Ethnicity and the Law                       
+LGLS 3430U            International Human Rights                        
+LGLS 4010U            Communication Law and Policy                      
+MATH 2055U            Adv. Linear Algeb & Applic.                       
+MCSC 6210G            Adv. Top. in Math. Modelling                      
+NUCL 4520U            Nuclear Plant Safety                              
+NUCL 4545U            Nuclear Plant Steam Util Sys                      
+NUCL 4560U            Thesis Project II                                 
+PHIL 1000T            Intr Phil: Knowledge & Reality                    
+PHIL 2270T            Philosophy of Mind                                
+PHIL 2410T            Symbolic Logic                                    
+PHIL 2780T            Philosophy Of Science                             
+PHY 3060U             Fluid  Mechanics                                  
+PSYC 2050U            Brain and Behaviour                               
+PSYC 2060U            Cognitive Psychology                              
+PSYC 3055U            Treatment in Forensic Settings                    
+SSCI 2920U            Qualitative Research Methods                      
+SSCI 3045U            Terrorism                                         
+SSCI 3056U            Race&Ethnty in the Crm Jst Sys                    
+SSCI 4025U            Children's Rights                                 
+SSCI 4085U            Emerging Patterns of Policing                     
+AEDT 1160U            Digital Commun. Technologies                      
+AEDT 2130U            Graphic Desgn, Digtl Tech.                        
+AEDT 3110U            Information Literacy                              
+AEDT 3120U            Workplace Learning                                
+AUTE 3010U            Intro. to Auto. Engineering                       
+AUTE 4010U            Vehicle Dynamics & Control                        
+AUTE 4060U            Automotive Structural Design                      
+AUTE 4070U            Chassis Systems Design                            
+BIOL 1011U            Intro Cell & Molecular Biology                    
+BIOL 4630U            Plant Physiology                                  
+BUSI 3370U            Employment and Labour Laws                        
+BUSI 3710U            Small Business Mgmt                               
+BUSI 5650G            Supply Chain & Vendor Mgmt.                       
+COMM 1420U            Digital Humanities                                
+COMM 2270U            Global Media Industries                           
+COMM 3310U            Commun, Comunties & Social Chg                    
+COMM 3410U            New Media Theory & Practice                       
+COMM 4120U            Contemporary Issues in Commun.                    
+COMM 4140U            Visual Rhetoric                                   
+COMM 4710U            International Communication                       
+CDPS 2000U            Mobilizing for Change                             
+CDPS 2100U            Global Communities                                
+CDPS 2200U            Theories of Policy Analysis                       
+CDPS 3203U            Urban Development                                 
+CDPS 3300U            Building Sustainable Commun.                      
+CSCI 2000U            Practical Computing for Scient                    
+EDUC 4900U            I/S Fld Experience&Practica I                     
+EDUC 4910U            P/J Fld Exper & Practica I                        
+EDUC 5199G            Spec. Top. in Ed. & Dig. Tech.                    
+ELEE 2110U            Discrete Mathematics for Eng.                     
+ELEE 2200U            Electrical Eng. Fundamentals                      
+ELEE 3110U            Signals & Systems                                 
+ELEE 3140U            Computer Architecture                             
+ELEE 3180U            Design Principles & Proj Mgmt                     
+ELEE 3230U            Electronic Circuit Design                         
+ELEE 3240U            Applic. for Electromagnetics                      
+ELEE 4120U            Intro to Power Electronics                        
+ELEE 4310U            Electronics                                       
+ELEE 4350U            Microprocessors                                   
+ELEE 4420U            DSP Theory & Design                               
+ELEE 4750U            Microwave & RF Circuits                           
+ENGR 1015U            Intro. to Engineering                             
+ENGR 4940U            Capstone Sys Design I                             
+ENGR 4950U            Capstone Sys Design I                             
+ENGR 5420G            Quality Management                                
+ENGR 5775G            Knowledge Disc. & Data Mining                     
+ENGR 6003G            PhD Seminar I                                     
+ENGR 6013G            PhD Seminar II                                    
+FSCI 2020U            Essentials of Crime Scene Scie                    
+FSCI 3110U            Population Genetics                               
+GEOG 1040T            Earth's Physical Proc. & Envir                    
+HLSC 1702U            Acad.Writing & Present. Skills                    
+HLSC 1810U            Hlth Promtn & Hlthy Active Liv                    
+HLSC 2465U            Anatomy & PhysiologyIII                           
+HLSC 3820U            Public Health I                                   
+HLSC 4473U            Prac.Human Anatmy I Back Lower                    
+HLSC 5118G            Applied BioStat. in Hlth Sci.                     
+INFR 1020U            Essential Math for Game 1                         
+INFR 1330U            Basic Intro. to Game Design                       
+INFR 2340U            Intro.to Modelling & Animation                    
+INFR 4410U            CCIE Routing & Switching                          
+INFR 4599U            SpecTop Mobile Web Programming                    
+LGLS 3530U            Intellectual Property                             
+LGLS 4050U            Impartiality, Neutrality & Obj                    
+MANE 2220U            Structure & Prop. of Materials                    
+MANE 3190U            Manufacturing & Prod. Processe                    
+MANE 4280U            Robotics & Automation                             
+MANE 4380U            Life Cycle Engineering                            
+MANE 4390U            Modelling Manufacturing Syst.                     
+MTSC 6330G            Electrochem.Methods & Material                    
+MECE 2230U            Statics                                           
+MECE 2310U            Concurrent Engr. & Design                         
+MECE 2320U            Thermodynamics                                    
+MECE 2640U            Thermodyanics & Heat Transfer                     
+MECE 3030U            Computer-Aided Design                             
+MECE 3260U            Introduction to Energy Systems                    
+MECE 3270U            Kinemat.& Dynamic. of Machines                    
+MECE 3350U            Control Systems                                   
+MECE 4210U            Adv.Solid Mech.& Stress Analys                    
+MECE 4410U            Fossil Fuel Energy Conversion                     
+MECE 4430U            Sustain.& Alter. Energy Techn.                    
+NUCL 2220U            Radi Effects of Material Prop                     
+NUCL 5100G            Nuclear Plant Sys. & Operation                    
+NUCL 5400G            Advanced Radiation Science                        
+PHIL 2110T            Moral Issues                                      
+PHY 2060U             Modern Physics                                    
+PHY 3080U             Electricity & Magnetism II                        
+PSYC 3400U            Investigative Psychology                          
+PSYC 3500U            Stereotypes and Prejudice                         
+SSCI 4026U            Adv Top in Race, Ethnic & Just                    
+SSCI 4097U            Community Connections                             
+SSCI 4098U            Practicum                                         
+SOFE 2710U            Object Oriented Prog. & Design                    
+SOFE 3650U            Software Design & Architecture                    
+SOFE 3700U            Data Management Systems                           
+SOFE 3770U            Design & Analys. of Algorithms                    
+SOFE 3950U            Operating Systems                                 
+SOFE 4650U            Computer Networks                                 
+SOFE 4790U            Distributed Systems                               
+SOFE 4800U            Advanced Operating Systems                        
+SOFE 4850U            User Interfaces                                   
+AEDT 3130U            Financial Mgmt of Online Learn                    
+AEDT 4110U            Assessment for Adult Learning                     
+AEDT 4130U            Soc. Jstce Issues In Adlt Educ                    
+AEDT 4140U            Instructional Design                              
+APBS 6500G            Adv Tps In Medicinal Chem.                        
+AUTE 3290U            Powertrain Design                                 
+AUTE 3450U            Combustion & Engines                              
+BIOL 1021U            Intro.to Orgnismal Biol & Ecol                    
+BUSI 2210U            Mrkt in the Infr Tech Sector                      
+BUSI 4260U            Mrkt Mgmt in Asia Pacific                         
+BUSI 4400U            Electronic Trading & Exchange                     
+COMM 2411U            Information & Society                             
+COMM 3250U            Commun. & Popular Culture                         
+COMM 3510U            Work in the Information Age                       
+COMM 3610U            Persuasion                                        
+COMM 4610U            Commun. & Conflict Resolut.                       
+CDPS 1000U            What is Community?                                
+CDPS 2502U            Community Develop. Policy                         
+CDPS 3100U            Political Econ. of Global Dev.                    
+CDPS 3102U            Culture & Community                               
+CSCI 6520G            Adv. Topics in Digital Media                      
+EDUC 3440U            Diversity:Teach.in the Mosaic                     
+EDUC 3441U            L'apprentissage en francais                       
+EDUC 3482U            Outdoor Ed:  Winter Adventure                     
+EDUC 3560U            Religious Education                               
+EDUC 4700U            Models of Teaching                                
+EDUC 4901U            I/S Fld Exper & Practica II                       
+EDUC 4911U            P/J Fld Exper & Practica II                       
+EDUC 5399G            Special Topics in Curriculum                      
+ELEE 2210U            Circuit Analysis                                  
+ELEE 2250U            Introductory Electronics                          
+ELEE 2450U            Digital Systems                                   
+ELEE 2520U            Fundamentals of Electromagnets                    
+ELEE 2530U            Complex Analysis for Engineers                    
+ELEE 2790U            Electric Circuits                                 
+ELEE 3070U            Probability & Random Signals                      
+ELEE 3100U            Modern Control Systems                            
+ELEE 3130U            Communication Systems                             
+ELEE 3250U            Electric Machines                                 
+ELEE 3330U            Circuit Design                                    
+ELEE 3490U            Microprocessor Systems Design                     
+ELEE 4110U            Power Systems                                     
+ELEE 4150U            Advanced Control Systems                          
+ELEE 4500U            Wireless Communication                            
+ENGR 1025U            Engineering Design                                
+ENGR 4941U            Capstone Sys. Design II                           
+ENGR 4951U            Capstone Sys. Design II                           
+ENGR 5005G            Spl Tpc:Sensor Network Systems                    
+ENGR 5005G            Spl Tpc Oper & Cont Of AC Driv                    
+ENGR 5005G            Sp Tp: Elect Pwr Distrib Sys                      
+ENGR 5014G            Pollution Prev & Sus Eng                          
+ENGR 5310G            Automotive Vehicle Dynamics                       
+ENGL 1003T            Revolution                                        
+FSCI 3120U            Forensic Biology                                  
+FSCI 3210U            Forensic Psychology                               
+HLSC 1811U            Social Determinants of Health                     
+HLSC 2030U            Interpersnl & Inter-Prof Comm                     
+HLSC 2810U            Child & Adolescent Health                         
+HLSC 3203U            Hlth Infrmtcs in Cdn Hlth Care                    
+HLSC 4401G            Motor Behav & Develop Disabil                     
+HLSC 4821U            Exploring The Mind Body Connec                    
+HLSC 4910U            Commun.Based Research for Hlth                    
+INFR 1030U            Essential Math for Game 2                         
+INFR 1335U            Digital Game Design                               
+INFR 2370U            Game Sound                                        
+INFR 4400U            Gamification                                      
+LGLS 2110U            Private Law                                       
+LGLS 4060U            Security & the Nation-State                       
+MANE 3300U            Integrated Manufact. Systems                      
+MANE 3460U            Industrial Ergonomics                             
+MANE 4015U            Reliability & Maintenance                         
+MANE 4045U            Quality Control                                   
+MECE 2420U            Solid Mechanics                                   
+MECE 2430U            Dynamics                                          
+MECE 2860U            Fluid Mechanics                                   
+MECE 3210U            Mechanical Vibrations                             
+MECE 3220U            Machine Design                                    
+MECE 3320U            Fluid Power Systems                               
+MECE 3390U            Mechatronics                                      
+MECE 3410U            Electromech. Energy Conversion                    
+MECE 3930U            Heat Transfer                                     
+MECE 4240U            Applied Thermal & Fluids Eng.                     
+MECE 4250U            Advanced Materials Engineering                    
+MECE 4320U            Advanced Mechatronics                             
+MECE 4450U            Thermal Environment Eng.                          
+MLSC 3141U            Molecular Techq & Cmpltry Tech                    
+MLSC 3210U            Effec Lead & Qual Mgmt                            
+MLSC 3231U            Advanced Histotechnology                          
+NUCL 5050G            Applied Risk Analysis                             
+PHY 2900U             Astronomy I                                       
+PHY 3060U             Fluid Dynamics                                    
+PHY 4030U             Topics in Contemp. Physics                        
+PSYC 3050U            Clinical Forensic Psychology                      
+PSYC 3060U            Personality Psychology                            
+PSYC 3210U            Forensic Psychology                               
+PSYC 3820U            Psychology of Deviance                            
+SOFE 2490U            Software Project Management                       
+SOFE 2715U            Data Structures                                   
+SOFE 2720U            Software Req. Spec & Analysis                     
+SOFE 3720U            Intro.to Artificial Intelligen                    
+SOFE 3960U            Prog. Languages & Compilers                       
+SOFE 3980U            Software Quality                                  
+SOFE 4830U            Real Time Systems & Control                       
+SOFE 4840U            Software & Computer Security                      
