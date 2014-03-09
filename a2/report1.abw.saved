@@ -9,23 +9,24 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Sun Mar  9 13:53:11 2014
+<m key="abiword.date_last_changed">Sun Mar  9 13:56:20 2014
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.creator">Gabe Newell</m>
-<m key="dc.date">Fri Feb 28 15:14:06 2014
+<m key="dc.date">Sun Mar  9 13:56:20 2014
 </m>
 <m key="dc.format">application/x-abiword</m>
 </metadata>
 <rdf>
 </rdf>
-<history version="13" edit-time="323292" last-saved="1394387591" uid="b35dc6fc-a0b4-11e3-8160-de815bc7e669">
+<history version="14" edit-time="323354" last-saved="1394387780" uid="b35dc6fc-a0b4-11e3-8160-de815bc7e669">
 <version id="1" started="1393618446" uid="e033e530-a0b4-11e3-8160-de815bc7e669" auto="0" top-xid="77"/>
 <version id="10" started="1394059158" uid="2833c05c-a7a5-11e3-9705-f91c03237bff" auto="0" top-xid="77"/>
 <version id="13" started="1394386955" uid="ae80a7a2-a7b3-11e3-80d5-d3ce8cd2cdc4" auto="0" top-xid="159"/>
+<version id="14" started="1394387780" uid="1ed45c1a-a7b4-11e3-848c-ad68f34084ec" auto="0" top-xid="166"/>
 </history>
 <styles>
-<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; widows:2; font-style:normal; text-indent:0in; text-position:normal; margin-right:0pt; text-decoration:none; bgcolor:transparent; line-height:1.0; font-size:12pt; margin-bottom:0pt; font-variant:normal; font-weight:normal; text-align:left; font-stretch:normal"/>
+<s type="P" name="Normal" followedby="Current Settings" props="font-weight:normal; font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-align:left; widows:2; font-style:normal; text-indent:0in; text-position:normal; font-variant:normal; bgcolor:transparent; line-height:1.0; text-decoration:none; margin-bottom:0pt; margin-right:0pt; font-size:12pt; font-stretch:normal"/>
 </styles>
 <pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
 <section header="0" xid="76" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
@@ -103,10 +104,10 @@
 <p style="Normal" xid="72"><c></c>2.5</p>
 </cell>
 </table>
-<p style="Normal" xid="77"><c></c></p>
+<p style="Normal" xid="77"><c></c><c></c></p>
 <p style="Normal" xid="156">	Python was by far the easiest to implement and lo and behold, it was the fastest. I think this is because the python dict is much easier to use than java’s map. Go wasn’t too difficult to implement, once I did some reading about maps and strings in go, and it is also quite fast. It surprised me that it wasn’t as fast as python. Since I have already been using java for a semester, it was not too difficult to work with. Had I not been more familiar with java already, I feel like it would have been the hardest to implement because the syntax for maps is kind of tricky. Overall, I found that python is best to use in this situation.</p>
-<p style="Normal" xid="158"><c></c></p>
-<p style="Normal" xid="159"><c></c></p>
+<p style="Normal" xid="158"><c></c><c></c></p>
+<p style="Normal" xid="159"><c></c><c></c></p>
 <table xid="82">
 <cell xid="83" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
 <p style="Normal" xid="84"><c props="font-weight:bold; color:0000ff">PART 2</c><c props="font-weight:bold; color:0000ff"></c></p>
@@ -181,12 +182,12 @@
 <p style="Normal" xid="153"><c></c>158</p>
 </cell>
 </table>
-<p style="Normal" xid="81"></p>
+<p style="Normal" xid="81"><c></c></p>
 <p style="Normal" xid="160">	Pretty much the same as Part 1. I found Java and Python to be fairly easy to implement because I’m familiar with java and Python is very user friendly. Go gave me some trouble for a while but I eventually found it to be much simpler than I was making it. My times for go seemed to vary a lot between each run so I picked one that seemed to fit in the middle of the times. Overall, I think Python was the easiest to implement for this assignment, and it is also the fastest.</p>
-<p style="Normal" xid="161"><c></c></p>
-<p style="Normal" xid="162"><c></c></p>
-<p style="Normal" xid="163"><c props="text-decoration:underline">Computational Complexity</c></p>
-<p style="Normal" xid="164"><c props="text-decoration:none">	Part 1 in only n-complexity. It does a linear search through the map/dictionary and prints any matching results. This would make it O(n). Part 2 is n plus a little more. It also does a linear search through the map/dictionary, but it has to go through another loop and print an array of course codes, adding to the complexity a bit. I guess this would make it O(n^2)</c></p>
+<p style="Normal" xid="161"><c></c><c></c></p>
+<p style="Normal" xid="162"><c></c><c></c></p>
+<p style="Normal" xid="163"><c props="text-decoration:underline">Computational Complexity</c><c props="text-decoration:underline"></c></p>
+<p style="Normal" xid="164"><c props="text-decoration:none">	Part 1 in only n-complexity. It does a linear search through the map/dictionary and prints any matching results. This would make it O(n). Part 2 is n plus a little more. It also does a linear search through the map/dictionary, but it has to go through another loop and print an array of course codes, adding to the complexity a bit. I guess this would make it O(n^2)</c><c props="text-decoration:none"></c></p>
 </section>
 <section id="0" listid="0" parentid="0" type="header" xid="165">
 <p xid="166" props="text-align:left">Alexander Marshall - 100487187</p>
