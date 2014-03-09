@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
-<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:svg="http://www.w3.org/2000/svg" xid-max="77" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-CA; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="159" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-CA; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
 <!-- ======================================================================== -->
 <!-- This file is an AbiWord document.                                        -->
 <!-- AbiWord is a free, Open Source word processor.                           -->
@@ -9,7 +9,7 @@
 <!-- ======================================================================== -->
 
 <metadata>
-<m key="abiword.date_last_changed">Wed Mar  5 17:39:18 2014
+<m key="abiword.date_last_changed">Sun Mar  9 12:09:13 2014
 </m>
 <m key="abiword.generator">AbiWord</m>
 <m key="dc.creator">Gabe Newell</m>
@@ -19,9 +19,9 @@
 </metadata>
 <rdf>
 </rdf>
-<history version="2" edit-time="346" last-saved="1394059158" uid="b35dc6fc-a0b4-11e3-8160-de815bc7e669">
+<history version="10" edit-time="322541" last-saved="1394381353" uid="b35dc6fc-a0b4-11e3-8160-de815bc7e669">
 <version id="1" started="1393618446" uid="e033e530-a0b4-11e3-8160-de815bc7e669" auto="0" top-xid="77"/>
-<version id="2" started="1394059158" uid="fcf61958-a4b6-11e3-9705-f91c03237bff" auto="0" top-xid="77"/>
+<version id="10" started="1394059158" uid="2833c05c-a7a5-11e3-9705-f91c03237bff" auto="0" top-xid="77"/>
 </history>
 <styles>
 <s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; bgcolor:transparent; widows:2; font-style:normal; text-indent:0in; text-position:normal; margin-bottom:0pt; font-weight:normal; line-height:1.0; text-align:left; font-variant:normal; text-decoration:none; margin-right:0pt; font-size:12pt; font-stretch:normal"/>
@@ -30,7 +30,7 @@
 <section xid="76" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
 <table xid="1">
 <cell xid="2" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
-<p style="Normal" xid="3"><c></c><c></c></p>
+<p style="Normal" xid="3"><c props="font-weight:bold; color:0000ff">PART 1</c></p>
 </cell>
 <cell xid="5" props="bot-attach:1; left-attach:1; right-attach:2; top-attach:0">
 <p style="Normal" xid="6"><c props="font-weight:bold">database</c><c props="font-weight:bold"></c></p>
@@ -69,39 +69,117 @@
 <p style="Normal" xid="39"><c props="font-weight:bold">Python</c><c props="font-weight:bold"></c></p>
 </cell>
 <cell xid="41" props="bot-attach:3; left-attach:1; right-attach:2; top-attach:2">
-<p style="Normal" xid="42"><c props="font-weight:bold"></c><c></c></p>
+<p style="Normal" xid="42"><c props="font-weight:bold"></c><c props="font-weight:normal">0.89</c></p>
 </cell>
 <cell xid="44" props="bot-attach:3; left-attach:2; right-attach:3; top-attach:2">
-<p style="Normal" xid="45"><c props="font-weight:bold"></c><c></c></p>
+<p style="Normal" xid="45"><c props="font-weight:normal"></c><c props="font-weight:normal">6.2</c></p>
 </cell>
 <cell xid="47" props="bot-attach:3; left-attach:3; right-attach:4; top-attach:2">
-<p style="Normal" xid="48"><c props="font-weight:bold"></c><c></c></p>
+<p style="Normal" xid="48"><c props="font-weight:normal"></c><c props="font-weight:normal">1.8</c></p>
 </cell>
 <cell xid="50" props="bot-attach:3; left-attach:4; right-attach:5; top-attach:2">
-<p style="Normal" xid="51"><c props="font-weight:bold"></c><c></c></p>
+<p style="Normal" xid="51"><c props="font-weight:normal"></c><c props="font-weight:normal">0.42</c></p>
 </cell>
 <cell xid="53" props="bot-attach:3; left-attach:5; right-attach:6; top-attach:2">
-<p style="Normal" xid="54"><c props="font-weight:bold"></c><c></c></p>
+<p style="Normal" xid="54"><c props="font-weight:normal"></c><c props="font-weight:normal">0.44</c></p>
 </cell>
 <cell xid="56" props="bot-attach:4; left-attach:0; right-attach:1; top-attach:3">
 <p style="Normal" xid="57"><c props="font-weight:bold">Go</c><c props="font-weight:bold"></c></p>
 </cell>
 <cell xid="59" props="bot-attach:4; left-attach:1; right-attach:2; top-attach:3">
-<p style="Normal" xid="60"><c></c><c></c></p>
+<p style="Normal" xid="60"><c></c>2.6</p>
 </cell>
 <cell xid="62" props="bot-attach:4; left-attach:2; right-attach:3; top-attach:3">
-<p style="Normal" xid="63"><c></c><c></c></p>
+<p style="Normal" xid="63"><c></c>8.2</p>
 </cell>
 <cell xid="65" props="bot-attach:4; left-attach:3; right-attach:4; top-attach:3">
-<p style="Normal" xid="66"><c></c><c></c></p>
+<p style="Normal" xid="66"><c></c>1.8</p>
 </cell>
 <cell xid="68" props="bot-attach:4; left-attach:4; right-attach:5; top-attach:3">
-<p style="Normal" xid="69"><c></c><c></c></p>
+<p style="Normal" xid="69"><c></c>1.8</p>
 </cell>
 <cell xid="71" props="bot-attach:4; left-attach:5; right-attach:6; top-attach:3">
-<p style="Normal" xid="72"><c></c><c></c></p>
+<p style="Normal" xid="72"><c></c>2.5</p>
 </cell>
 </table>
 <p style="Normal" xid="77"></p>
+<p style="Normal" xid="156">	Python was by far the easiest to implement and lo and behold, it was the fastest. I think this is because the python dict is much easier to use than java’s map. Go wasn’t too difficult to implement, once I did some reading about maps and strings in go, and it is also quite fast. It surprised me that it wasn’t as fast as python. Since I have already been using java for a semester, it was not too difficult to work with. Had I not been more familiar with java already, I feel like it would have been the hardest to implement because the syntax for maps is kind of tricky. Overall, I found that python is best to use in this situation.</p>
+<p style="Normal" xid="158"></p>
+<p style="Normal" xid="159"></p>
+<table xid="82">
+<cell xid="83" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
+<p style="Normal" xid="84"><c props="font-weight:bold; color:0000ff">PART 2</c></p>
+</cell>
+<cell xid="86" props="bot-attach:1; left-attach:1; right-attach:2; top-attach:0">
+<p style="Normal" xid="87"><c props="font-weight:bold">database</c></p>
+</cell>
+<cell xid="89" props="bot-attach:1; left-attach:2; right-attach:3; top-attach:0">
+<p style="Normal" xid="90"><c props="font-weight:bold">sys</c></p>
+</cell>
+<cell xid="92" props="bot-attach:1; left-attach:3; right-attach:4; top-attach:0">
+<p style="Normal" xid="93"><c props="font-weight:bold">calculus</c></p>
+</cell>
+<cell xid="95" props="bot-attach:1; left-attach:4; right-attach:5; top-attach:0">
+<p style="Normal" xid="96"><c props="font-weight:bold">java</c></p>
+</cell>
+<cell xid="98" props="bot-attach:1; left-attach:5; right-attach:6; top-attach:0">
+<p style="Normal" xid="99"><c props="font-weight:bold">xyz</c></p>
+</cell>
+<cell xid="101" props="bot-attach:2; left-attach:0; right-attach:1; top-attach:1">
+<p style="Normal" xid="102" props="text-align:justify"><c props="font-weight:bold">Java</c></p>
+</cell>
+<cell xid="104" props="bot-attach:2; left-attach:1; right-attach:2; top-attach:1">
+<p style="Normal" xid="105">40</p>
+</cell>
+<cell xid="107" props="bot-attach:2; left-attach:2; right-attach:3; top-attach:1">
+<p style="Normal" xid="108">34</p>
+</cell>
+<cell xid="110" props="bot-attach:2; left-attach:3; right-attach:4; top-attach:1">
+<p style="Normal" xid="111">32</p>
+</cell>
+<cell xid="113" props="bot-attach:2; left-attach:4; right-attach:5; top-attach:1">
+<p style="Normal" xid="114">32</p>
+</cell>
+<cell xid="116" props="bot-attach:2; left-attach:5; right-attach:6; top-attach:1">
+<p style="Normal" xid="117">21</p>
+</cell>
+<cell xid="119" props="bot-attach:3; left-attach:0; right-attach:1; top-attach:2">
+<p style="Normal" xid="120"><c props="font-weight:bold">Python</c></p>
+</cell>
+<cell xid="122" props="bot-attach:3; left-attach:1; right-attach:2; top-attach:2">
+<p style="Normal" xid="123">0.88</p>
+</cell>
+<cell xid="125" props="bot-attach:3; left-attach:2; right-attach:3; top-attach:2">
+<p style="Normal" xid="126">2.3</p>
+</cell>
+<cell xid="128" props="bot-attach:3; left-attach:3; right-attach:4; top-attach:2">
+<p style="Normal" xid="129">1.6</p>
+</cell>
+<cell xid="131" props="bot-attach:3; left-attach:4; right-attach:5; top-attach:2">
+<p style="Normal" xid="132">0.39</p>
+</cell>
+<cell xid="134" props="bot-attach:3; left-attach:5; right-attach:6; top-attach:2">
+<p style="Normal" xid="135">0.43</p>
+</cell>
+<cell xid="137" props="bot-attach:4; left-attach:0; right-attach:1; top-attach:3">
+<p style="Normal" xid="138"><c props="font-weight:bold">Go</c></p>
+</cell>
+<cell xid="140" props="bot-attach:4; left-attach:1; right-attach:2; top-attach:3">
+<p style="Normal" xid="141"><c></c></p>
+</cell>
+<cell xid="143" props="bot-attach:4; left-attach:2; right-attach:3; top-attach:3">
+<p style="Normal" xid="144"><c></c></p>
+</cell>
+<cell xid="146" props="bot-attach:4; left-attach:3; right-attach:4; top-attach:3">
+<p style="Normal" xid="147"><c></c></p>
+</cell>
+<cell xid="149" props="bot-attach:4; left-attach:4; right-attach:5; top-attach:3">
+<p style="Normal" xid="150"><c></c></p>
+</cell>
+<cell xid="152" props="bot-attach:4; left-attach:5; right-attach:6; top-attach:3">
+<p style="Normal" xid="153"><c></c></p>
+</cell>
+</table>
+<p style="Normal" xid="81"></p>
 </section>
 </abiword>

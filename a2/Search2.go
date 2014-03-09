@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-type Index map[string]string
+type Index map[string][]string
 
 func buildIndex(filename string) Index {
 	f, err := os.Open(filename)
@@ -24,16 +24,21 @@ func buildIndex(filename string) Index {
        	err == nil;
        	line, err = reader.ReadString('\n') {
        	info := strings.Split(line, "            ")
-       	courses[info[0]] = info[1]
-    }
+       	title := strings.Split(info[1], " ")
+       	for _, val := range title {
+       		courses[val] = append(courses[val], info[0])
+       	}
+    	}
 
 	return courses
 }
 
 func search(index Index, keyword string) {
-	for key, value := range index {
-		if(strings.Contains(strings.ToLower(value), strings.ToLower(keyword)) == true) {
-			fmt.Println(key, " : ", value)
+	for key, val := range index {
+		if(strings.ToLower(key) == strings.ToLower(keyword)) {
+			for _, str := range val {
+				fmt.Println(str)
+			}
 		}
 	}
 }

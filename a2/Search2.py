@@ -12,14 +12,22 @@ def buildIndex(filename):
 
 	for line in f.readlines():
 		info = line.split("            ")
-		courses[info[0]] = info[1] 
+		code = info[0]
+		title = info[1]
+		keys = title.split(" ")
+		for i in keys:
+			if i in courses:
+				courses[i].append(code)
+			else:
+				courses[i] = [code]	 
 	
 	return courses
 
 def search(index, keyword):
 	for target in index.keys():
-		if keyword.lower() in index[target].lower():
-			print target, " : ", index[target]
+		if keyword.lower() == target.lower():
+			for i in range(len(index[target])):
+				print index[target][i]
 
 def resetTimer():
   global START
@@ -42,3 +50,4 @@ courses = buildIndex(filename)
 resetTimer()
 search(courses, keyword)
 print "Took %f milliseconds to search for keyword %s" % (readTimerMilliseconds(), keyword)
+

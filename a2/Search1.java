@@ -29,8 +29,6 @@ public class Search1 {
 	}
 
 	public static void search(Map<String, String> index, String keyword) {
-		Map<String, String> courses = index;
-
 		for(Map.Entry<String, String> c : index.entrySet()) {
 			if(c.getValue().toLowerCase().contains(keyword.toLowerCase())) {
 				System.out.println(c.getKey()+" : "+c.getValue());
@@ -55,17 +53,10 @@ public class Search1 {
 
 		String filename = args[0];
 		Map <String, String> courses = buildIndex(filename);
-		int i = 1;
-
-		while(i < args.length){
-			String keyword = args[i];
-			resetTimer();
-
-			search(courses, keyword);
-			long time = readTimerMilliseconds();
-
-			System.out.println("Took "+time+" milliseconds to search for keyword "+keyword);
-			++i;
-		}
+		String keyword = args[1];
+		resetTimer();
+		search(courses, keyword);
+		long time = readTimerMilliseconds();
+		System.out.println("Took "+time+" milliseconds to search for keyword "+keyword);
 	}
 }
