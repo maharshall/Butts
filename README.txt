@@ -1,4 +1,4 @@
-CSCI 2040U - Software Systems Development & Integration
+CSCI 2020U - Software Systems Development & Integration
 	with Dr. Ken Pu
 	
 	
